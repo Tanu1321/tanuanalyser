@@ -30,7 +30,8 @@ CONFIG = {
 }
 
 # Persistent Shared Scraped Cache (shared dashboard context)
-CACHE_FILE = "state_cache.json"
+# Netlify/Lambda functions are read-only except for /tmp
+CACHE_FILE = "/tmp/state_cache.json" if os.path.exists("/tmp") else "state_cache.json"
 
 def fetch_from_rss(feed_url: str, keyword: str = "blinkit") -> list:
     import xml.etree.ElementTree as ET
@@ -920,4 +921,6 @@ async def get_dashboard():
     return html_content
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=5000)
+    # Dynamically read the PORT environment variable for cloud deployment (Koyeb, Render, etc.)
+    port = int(os.environ.get("PORT", 5000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
