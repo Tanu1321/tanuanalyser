@@ -1,0 +1,1493 @@
+{
+    "last_scraped": "2026-07-25 18:15:16",
+    "reddit_posts": [
+        {
+            "subreddit": "PataHaiAajKyaHua",
+            "title": "Never buy condoms from blinkit or any online grocery app....",
+            "text": "Pata hai aaj kya hua \n\nWell this is more of a pata hai parso kya hua , anyway so my girlfriend and I were really busy for the past couple of weeks , we finally got a day free , my parents weren't home , so she planned to spend the entire day ( told her parents it was a friend's place ) with me , we hanged out with other friends the entire day , went to the movie , then went on a ride through the whole city ,came back home and \n\nwe were finally alone, things got a little heated so I decided to get some condoms , but since its an indian household thwre were obviously no condoms , I had to buy some at 9 pm , the nearest medical store was a couple minutes away , so I just ordered it on blinkit , we were cuddling and just talking , I got the call for my order , the guy said , apka order hai ghar ke bahar khade hai , and when I came out , I forgot something , that almost 90% of the time only 2-3 guys show up in my area , and this guy was a regular for my orders , \n\nwhen he saw me opening the"
+        },
+        {
+            "subreddit": "developersIndia",
+            "title": "Built a free app to compare real-time cab fares (Uber, Ola, Rapido, Namma Yatri) and groceries (Blinkit, Zepto, Instamart) - all in one place",
+            "text": "I originally built Comparify to compare prices and delivery times between Blinkit, Zepto, and Instamart, mainly because I was tired of overpaying for everyday groceries.\n\nJust added a new feature that might be even more useful:\n\nYou can now compare real-time cab fares across Uber, Ola, Rapido, and Namma Yatri, showing your actual account prices including any offers.\n\nNo more switching between apps. Comparify shows all fares in one place, and you can tap to book - it deep-links to the selected app with pickup & drop pre-filled.\n\n# Why does it ask you to log in?\n\nAll these services show account-specific prices, which depend on:\n\n* your location\n* any active offers/coupons\n* wallet credits\n* surge pricing\n\nTo show accurate prices, Comparify logs you into each service on your device only.\n\nLogin sessions are securely stored locally on your device and used only to fetch prices.\n\nTech Stack:\n\n* Frontend: Expo (React Native)\n* Styling: NativeWind (TailwindCSS for React Native)\n* Backend/API l"
+        },
+        {
+            "subreddit": "delhi",
+            "title": "In the age of blinkit, zepto/ swiggy instamart and now amazon quick delivery, is anyone still religiously going to the grocery store or super market?",
+            "text": "When I lived abroad briefly, it was such a pleasure to plan my meals, step out on the clean roads, the good air and visit the organised super markets and buy my groceries. Fair price, fresh ingredients, no bargaining and one price for all customers. In Delhi, blinkit has spoiled me and i dont mind paying the added delivery charges - not realising how much i end up payint for delivery alone, given I order multiple times a week due to lack or organisation. Would love to know how others are maintaining their household? "
+        },
+        {
+            "subreddit": "IndiaMoney",
+            "title": "Why ₹40k in my hometown felt richer than ₹1.4L in Bangalore",
+            "text": "Few years back I was working in Bangalore and earning around ₹1.4L/month in hand.\n\nHonestly, on paper it sounded amazing. But by month end, it rarely felt like six figures.\n\nUsing Bangalore and my hometown Udaipur here just as an example of Tier 1 vs Tier 3 lifestyle/expense differences.\n\n Bangalore breakdown:\n\n\\- Rent for a 1BHK: ₹30k\n\n\\- Groceries and daily stuff:  Around ₹6k\n\n\\- Maid/laundry: ₹3k\n\n\\- WiFi and electricity: Around ₹3k\n\n\\- Swiggy/Zomato: ₹7k\n\n\\- Cabs/commute: ₹5k\n\n\\- Weekend plans/socialising: ₹8k\n\nAnd then there are the invisible spends like amazon orders, quick commerce apps, random coffees, convenience spending, impulse buys etc.\n\nThe funny part is, even after earning ₹1.4L, a huge chunk quietly disappeared into just existing in a Tier 1 city.\n\nYes, I was still saving money but life constantly felt rushed and expensive.\n\nYou slowly start paying for convenience because you’re too mentally exhausted otherwise.\n\n\\- Cooking? Order food.\n\n\\- Grocery store far away? Blink"
+        },
+        {
+            "subreddit": "dealsforindia",
+            "title": "Built a free app to compare real-time cab fares (Uber, Ola, Rapido, Namma Yatri) and groceries (Blinkit, Zepto, Instamart) - all in one place",
+            "text": "I originally built Comparify to compare prices and delivery times between Blinkit, Zepto, and Instamart, mainly because I was tired of overpaying for everyday groceries.\n\nJust added a new feature that might be even more useful:\n\nYou can now compare real-time cab fares across Uber, Ola, Rapido, and Namma Yatri, showing your actual account prices, including coupons, offers, and wallet credits.\n\nNo more switching between apps. Comparify shows all fares in one place, and you can tap to book - it deep-links to the selected app with pickup & drop pre-filled.\n\n# Why does it ask you to log in?\n\nAll these services show account-specific prices, which depend on:\n\n* your location\n* any active offers/coupons\n* wallet credits\n* surge pricing\n\nTo show accurate prices, Comparify logs you into each service on your device only.\n\nNo login session is ever sent to the server.\n\nLogin sessions are securely stored locally on your device and used only to fetch real-time prices.\n\nWould love to hear your feedbac"
+        },
+        {
+            "subreddit": "india",
+            "title": "Created an App QuickCompare to compare prices between Zepto, Swiggy, Blinkit. Looking for feedback and more suggestions.",
+            "text": ""
+        },
+        {
+            "subreddit": "Indore",
+            "title": "Built a free app to compare real-time cab fares (Uber, Ola, Rapido, Namma Yatri) and groceries (Blinkit, Zepto, Instamart) - all in one place",
+            "text": "I originally built Comparify to compare prices and delivery times between Blinkit, Zepto, and Instamart, mainly because I was tired of overpaying for everyday groceries.\n\nJust added a new feature that might be even more useful:\n\nYou can now compare real-time cab fares across Uber, Ola, Rapido, and Namma Yatri, showing your actual account prices, including coupons, offers, and wallet credits.\n\nNo more switching between apps. Comparify shows all fares in one place, and you can tap to book - it deep-links to the selected app with pickup & drop pre-filled.\n\n# Why does it ask you to log in?\n\nAll these services show account-specific prices, which depend on:\n\n* your location\n* any active offers/coupons\n* wallet credits\n* surge pricing\n\nTo show accurate prices, Comparify logs you into each service on your device only.\n\nNo login session is ever sent to the server.\n\nLogin sessions are securely stored locally on your device and used only to fetch real-time prices.\n\nWould love to hear your feedbac"
+        },
+        {
+            "subreddit": "StartupFuture",
+            "title": "Blinkit's plans to expand into Meghalaya have hit a roadblock after the Khasi Hills Autonomous District Council (KHADC) refused to grant the mandatory trading licence required to operate in the region.",
+            "text": "KHADC Chief Executive Member Winston Tony Lyngdoh said the council would not issue licences to businesses whose operating models could threaten indigenous traders and small local enterprises.   \n  \nAccording to the council, more than 4,000 grocery stores operating under its jurisdiction could be adversely affected by app-based delivery platforms offering deep discounts and doorstep delivery services.  \n  \n\"The executive committee would not issue a trading licence to any platform whose business model threatens indigenous traders and small businesses,\" Lyngdoh said.  \n  \nThe council noted that Blinkit had reportedly secured a No Objection Certificate (NOC) from local authorities in Nongrim Hills, but its licence application had not yet reached the KHADC for formal consideration."
+        },
+        {
+            "subreddit": "delhi",
+            "title": "Don't use Blinkit unless you need your groceries immediately.",
+            "text": "Blinkit has inflated prices on so many grocery items. I came to realize it late. Flipkart groceries, on the other hand has reasonable prices but they do slot based delivery only and has limited selection as compared to Blinkit. Many items I found on Blinkit were not available on Flipkart.\n\nOne example:\n\nKellogg's Muesli 750 gm:\n\nBlinkit: 416\n\nBB: 420\n\nFlipkart: 362"
+        },
+        {
+            "subreddit": "IndiaDealsExchange",
+            "title": "[H] Zepto, Blinkit ,Instamart Grocery Orders [W] 90%upi",
+            "text": "10% off over any applicable coupons .dm if interested "
+        },
+        {
+            "subreddit": "developersIndia",
+            "title": "Built a AI agent to get groceries from Blinkit-  Mix of static workflows and Agents",
+            "text": "Hey folks\n\nI recently put together a side project called **Cadbury** – a bot that lets you get groceries from Blinkit just by chatting. Works in India\n\nYou can say things like:  \n🗣️ *“Get eggs and Amul butter”*  \nAnd it’ll do everything end-to-end — including **address selection, OTP login, and UPI payment**. It even remembers your details for next time.\n\n# Tech stack:\n\n* **OpenAI function calling** to parse free-form requests into structured actions\n* A browser session (Chrome) spun up in the cloud to handle actual UI interactions\n* **Selenium** for automation, paired with an **agentic planning layer** to dynamically adapt steps\n* Handles real-world flows like OTPs, search quirks, and UPI (via intent-based navigation)\n\nHad to a bit of reverse engineering the API's as well to make the process faster.\n\nIt’s live here if you want to play with it DM me or let me know.  \nWould love thoughts, ideas, or even just a chat if you're into LLMs + automation + real-world integrations.\n\nHappy to op"
+        },
+        {
+            "subreddit": "Btechtards",
+            "title": "Strategies to Save Your Money 💰",
+            "text": ""
+        },
+        {
+            "subreddit": "pune",
+            "title": "AITA to ask the blinkit guy to come to my door to deliver the groceries I had ordered for doorstep delivery",
+            "text": "TBH the apartment is 3 storey building with no lift. I don't order groceries online as the store is right outside my lane but this time I was in a hurry and needed to look at other chores. I usually go down to take the delivery at the gate be it amazon or groceries."
+        },
+        {
+            "subreddit": "IndiaSpeaks",
+            "title": "Built a free app to compare real-time cab fares (Uber, Ola, Rapido, Namma Yatri) and groceries (Blinkit, Zepto, Instamart) - all in one place",
+            "text": "I originally built Comparify to compare prices and delivery times between Blinkit, Zepto, and Instamart, mainly because I was tired of overpaying for everyday groceries.\n\nJust added a new feature that might be even more useful:\n\nYou can now compare real-time cab fares across Uber, Ola, Rapido, and Namma Yatri, showing your actual account prices, including coupons, offers, and wallet credits.\n\nNo more switching between apps. Comparify shows all fares in one place, and you can tap to book - it deep-links to the selected app with pickup & drop pre-filled.\n\n# Why does it ask you to log in?\n\nAll these services show account-specific prices, which depend on:\n\n* your location\n* any active offers/coupons\n* wallet credits\n* surge pricing\n\nTo show accurate prices, Comparify logs you into each service on your device only.\n\nNo login session is ever sent to the server.\n\nLogin sessions are securely stored locally on your device and used only to fetch real-time prices.\n\nWould love to hear your feedbac"
+        },
+        {
+            "subreddit": "gurgaon",
+            "title": "Built a free app to compare real-time cab fares (Uber, Ola, Rapido, Namma Yatri) and groceries (Blinkit, Zepto, Instamart) - all in one place",
+            "text": "I originally built Comparify to compare prices and delivery times between Blinkit, Zepto, and Instamart, mainly because I was tired of overpaying for everyday groceries.\n\nJust added a new feature that might be even more useful:\n\nYou can now compare real-time cab fares across Uber, Ola, Rapido, and Namma Yatri, showing your actual account prices, including coupons, offers, and wallet credits.\n\nNo more switching between apps. Comparify shows all fares in one place, and you can tap to book - it deep-links to the selected app with pickup & drop pre-filled.\n\n# Why does it ask you to log in?\n\nAll these services show account-specific prices, which depend on:\n\n* your location\n* any active offers/coupons\n* wallet credits\n* surge pricing\n\nTo show accurate prices, Comparify logs you into each service on your device only.\n\nNo login session is ever sent to the server.\n\nLogin sessions are securely stored locally on your device and used only to fetch real-time prices.\n\nWould love to hear your feedbac"
+        },
+        {
+            "subreddit": "Jaunpur",
+            "title": "After Blinkit Flipkart is also delivering groceries in 7 minutes",
+            "text": "What will happen to nearby local Kirana shops."
+        },
+        {
+            "subreddit": "AI_India",
+            "title": "Created a blinkit bot to add grocery items to my cart based on my previous orders",
+            "text": "I built a tool which allows you to build bots like these by just doing a screen recording of the task. It writes code which can be run with different inputs fast and cheap.  \n  \nYou might think, what is impressive about these bots? They have existed for a very long time and you are right. The problem with these bots are they stop working, every time blinkit changes their website. (which they do every couple of weeks)  \n\n\nHow does AI Mime stop them from breaking?  \nIt doesn't. They still break. But whenever they break, AI Mime passes all the task context and error logs to the agent so that the agent can fix the code and it can start working again.  \nWhile creating these automations, the agents learn to do the task and then writes up the code to run the task end to end. It captures all its learnings about the task in the form of a claude skill. \n\nSo, the code works till the website is same, whenever something changes, the agent heals so that it starts workign again. User's dont have to d"
+        },
+        {
+            "subreddit": "Jecrc_University",
+            "title": "Blinkit ke alawa aur koi grocery delivery service app hai kya?",
+            "text": "Swiggy Instamart toh nahi chalta. Aur koi hai kya ya sirf blinkit hi hai?"
+        },
+        {
+            "subreddit": "Bhubaneswar",
+            "title": "Would you order groceries 2–3 days in advance if it saved you 15–20% compared to Blinkit/Zepto?",
+            "text": "Hi everyone,\n\nI’m researching grocery-buying habits in Indian cities and wanted some honest feedback.\n\nMany working professionals and families today either:  \n• Visit local markets and spend time shopping, or  \n• Use quick-commerce apps for convenience but often pay significantly higher prices.\n\nI’m exploring a concept where households place grocery orders 1–3 days in advance instead of expecting instant delivery.\n\nThe idea is simple:\n\nOrders from across the city are combined.  \nProduce is procured in bulk from wholesale markets.  \nDeliveries are scheduled and optimized.  \nThe savings from bulk buying are passed on to customers.  \nAs a customer, you would trade speed for lower prices and fresh produce.\n\nI’m trying to understand whether this is a real need or just an interesting idea.\n\nA few questions:\n\n1. How do you currently buy vegetables and groceries?  \n2. How much do you spend per month on vegetables?  \n3. Do you use Blinkit, Zepto, Instamart, BigBasket, local vendors, or local ma"
+        },
+        {
+            "subreddit": "BusinessTodayNews",
+            "title": "Most people expect groceries, snacks or household essentials to arrive with their Blinkit orders. A Delhi man, however, received something far more unusual; a resume tucked inside the package.",
+            "text": "The unexpected discovery was shared by Delhi-based creative director Ankit Bawa, who posted a video on Instagram showing the curious addition to his grocery delivery. As he unpacked the order, he noticed an envelope carrying a handwritten-style message that immediately piqued his interest.  \n"
+        },
+        {
+            "subreddit": "SurveyCircle",
+            "title": "[Academic] 1-Minute Survey on Quick-Commerce Habits (Blinkit, Zepto, Instamart) - (India, All App Users)",
+            "text": "Hey everyone,\n\nI am conducting a very short, completely anonymous primary research survey on our Quick-Commerce habits for a student portfolio project.\n\nI would incredibly appreciate your input if you use any delivery apps!\n\nSurvey Link:\n\n https://docs.google.com/forms/d/e/1FAIpQLSd6lhRTc8i4LqJFX2LVeCouqJifLHjSpwT4BLbuSrpFXuF6kg/viewform?usp=header\n\nThank you so much for the help!"
+        },
+        {
+            "subreddit": "hyderabad",
+            "title": "Quick 3-min survey: Your Zepto habits in Hyderabad?",
+            "text": "Hey Hyderabadis! 👋\n\nLove ordering chai masala or idli batter at 11 PM via Zepto? I'm running a quick user research project on *Zepto shopping habits here in Hyderabad* — frequency, favorites, pain points, and wishlist features.\n\nTakes **2-3 mins**, fully anonymous, for my personal project (not Zepto-affiliated). Your local takes would be gold!\n\nLink: https://forms.gle/sQ4YfN6eESKCxCfj8\n\nUpvote if you've rage-ordered biryani via Zepto! 😄 Thanks!\n\nAlso, what alternatives have you used actively for bulk orders? And why? (Zomato/Swiggy/DMart/Instamart/Blinkit)\n"
+        },
+        {
+            "subreddit": "developersIndia",
+            "title": "Made an app for easier shopping experience starting with quick commerce.",
+            "text": "I built an app called **QuickSola** that would help you in all your shopping experiences - quick commerce and e commerce. As phase 1 , it compares prices across Zepto, Blinkit, Instamart and other major platforms. This has been an issue for the longest time with multiple apps juggling with multiple discounts making it impossible for users to choose the best platform.\n\n  \nI know the problem is being solved by many but trying to create the healthiest solution that can be sustainable.\n\nThis could facilitate a user habit of comparing prices easily and picking the right platform every single time. What it does now:\n\n1. Compares prices for items across platforms\n2. Helps you pick the cheapest app to order for each **CART**\n3. Tells you which platform delivers fastest.\n\nI have been saving 30 rupees on every carts by shuffling between apps using this!!\n\n Try it out here,  \nAndroid: [Playstore Link](https://play.google.com/store/apps/details?id=com.quicksola.app)  \niOS: [Appstore Link](https://"
+        },
+        {
+            "subreddit": "FuckZepto",
+            "title": "Pricing across apps is getting unbearable, so I built a shopping agent to compare prices. Starting with groceries.",
+            "text": "I built an app called **QuickSola** that compares prices across Zepto, Blinkit, Instamart and other major platforms. This has been an issue for the longest time with multiple apps juggling with multiple discounts making it impossible for users to choose the best platform. \n\nThis could facilitate a user habit of comparing prices easily and picking the right platform every single time. What it does now:\n\n1. Compares prices for items across platforms\n2. Helps you pick the cheapest app to order for each **CART**\n3. Tells you which platform delivers fastest.\n\nI have been saving 30 rupees on every carts by shuffling between apps using this!!\n\nDo share your feedback and suggestions in comments or DM. Highly appreciated!"
+        },
+        {
+            "subreddit": "StartUpIndia",
+            "title": "Will these quick delivery apps like Blinkit and Zepto survive long-term?",
+            "text": "So, I run a marketing company, and was talking with a client about these quick commerce apps like Blinkit, instamart, Zepto, and all. Right now, they’re spending lots of money on free deliveries, cashbacks and discounts to acquire customers and market share. But once they start focusing on profits, will people actually continue using them?\n\nTake Zomato and Swiggy, for example—they charge more than the restaurant prices. If these quick delivery apps also start pricing higher than local stores, do you think people will still buy from them? The convenience is great for emergencies—but people are willing to pay extra for that every time?\n\nMost of us compare prices and love a good deal. If the discounts go away or things get too expensive, wouldn’t a lot of users  just go back to  local kirana shops or supermarkets? Or do you think these apps are creating a habit that people won’t mind paying for?\n\nCurious to know what you guys think—are these apps here to stay, or is it just a phase until "
+        },
+        {
+            "subreddit": "SurveyExchangeIndia",
+            "title": "Do you order from Blinkit every week? I'm researching quick-commerce shopping habits — 5-min survey (+ optional 20-min chat)",
+            "text": "Hi all — I'm a product manager working on an independent research project about how quick commerce (Blinkit/Zepto/Instamart) has changed the way people shop for groceries and daily essentials.\n\nIf you order from **Blinkit at least once a week**, I'd love your input. It's a 5-minute survey about your ordering habits — what you buy, how often, how you decide.\n\nA few respondents will be invited to an optional 20– video/voice call to go deeper. No sales pitch, no product being promoted — this is pure research, and responses stay confidential.\n\nSurvey link: [https://forms.gle/xNip6NhL1882Mh9x8](https://forms.gle/xNip6NhL1882Mh9x8)\n\nNote: can also fill your survey in return. "
+        },
+        {
+            "subreddit": "Bhubaneswar",
+            "title": "Would you order groceries 2–3 days in advance if it saved you 15–20% compared to Blinkit/Zepto?",
+            "text": "Hi everyone,\n\nI’m researching grocery-buying habits in Indian cities and wanted some honest feedback.\n\nMany working professionals and families today either:  \n• Visit local markets and spend time shopping, or  \n• Use quick-commerce apps for convenience but often pay significantly higher prices.\n\nI’m exploring a concept where households place grocery orders 1–3 days in advance instead of expecting instant delivery.\n\nThe idea is simple:\n\nOrders from across the city are combined.  \nProduce is procured in bulk from wholesale markets.  \nDeliveries are scheduled and optimized.  \nThe savings from bulk buying are passed on to customers.  \nAs a customer, you would trade speed for lower prices and fresh produce.\n\nI’m trying to understand whether this is a real need or just an interesting idea.\n\nA few questions:\n\n1. How do you currently buy vegetables and groceries?  \n2. How much do you spend per month on vegetables?  \n3. Do you use Blinkit, Zepto, Instamart, BigBasket, local vendors, or local ma"
+        },
+        {
+            "subreddit": "swiggy",
+            "title": "Dark patterns in swiggy instamart",
+            "text": "Ugh. Swiggy really is doing that thing now — and it’s so frustrating.\n\nIt feels like Swiggy has quietly slipped into using dark patterns, and the worst part is they only acknowledge it after you catch them red-handed and call them out. Until then? Total silence. No proactive transparency, no “hey, here’s what’s happening,” just hoping the user won’t notice.\n\nThey’re basically going down the Zepto playbook:\n\nstretching definitions, nudging users into choices that benefit them, adding convenience only when it suits their metrics, and banking on the fact that most people are too tired to argue over a few rupees or misleading prompts. And honestly, that’s what makes it so annoying — not that it’s a massive scam, but that it’s death by a thousand tiny manipulations.\n\nThe UI looks clean, friendly, even “customer-first” on the surface. But underneath?\n\nPrices shift subtly, fees appear late in the flow, options are pre-selected in their favor, refunds take extra effort, and explanations magica"
+        },
+        {
+            "subreddit": "indianstartups",
+            "title": "Positive Outlooks for the Indian economy unless they include a Corruption Premium or Inflation Hedge analysis.",
+            "text": "https://preview.redd.it/8vdndq7wxbrg1.png?width=800&format=png&auto=webp&s=ed270b8de09feaef3aca0e45d9e6c25719085ada\n\nThe rapid expansion of India’s quick commerce sector, led by firms such as Blinkit, Swiggy Instamart, and Zepto, presents a paradoxical economic scenario in which both major platforms and traditional kirana retailers are experiencing financial strain. \n\n**Despite reporting substantial losses and sustained cash burn, these firms continue aggressive expansion, indicating that immediate profitability is not the primary objective.** \n\nInstead, the prevailing strategy centers on long-term market capture through the cultivation of consumer habits, particularly the normalization of ultra-fast delivery expectations. \n\nEvidence from global precedents, including Amazon and Uber, demonstrates that prolonged periods of financial loss can precede eventual market dominance. \n\n**According to RedSeer Consulting, the sector is expected to grow significantly, reinforcing investor confiden"
+        },
+        {
+            "subreddit": "hyderabad",
+            "title": "[Student Project] Hyd folks, how does your use of Blinkit/Zepto change during Ramadan? (Need data for Final Year Project!)",
+            "text": "Hi r/Hyderabad,\n\nI am a [B.Com](http://B.Com) student conducting a survey for my final year project. I'm analyzing how **Quick Commerce (Blinkit/Zepto/Swiggy Instamart)** usage shifts during the Ramadan season compared to normal days.\n\nI need to prove if the \"Pre-Ramadan\" vs \"During-Ramadan\" spending habits actually change or if it's just a myth.\n\n**I need 50 more responses or I'm cooked lol. Help a Hyderabadi student out?**\n\n**Link:** \\[[https://docs.google.com/forms/d/e/1FAIpQLScV-Ss5qzm6f51P75UJu5ZB4qbXwPAsNzowM9PE8jAAcUPB5w/viewform?usp=header\\]](https://docs.google.com/forms/d/e/1FAIpQLScV-Ss5qzm6f51P75UJu5ZB4qbXwPAsNzowM9PE8jAAcUPB5w/viewform?usp=header])\n\nIt takes less than 1 minute (no sign-in required). Your help would be massive for my data analysis!\n\nThank you very much y'all."
+        },
+        {
+            "subreddit": "Pitch2CXXO",
+            "title": "#MarketMapMondays | Vol. 1: Vertical Quick Commerce",
+            "text": "Trying something new on r/PitchCXXO: **#MarketMapMondays**. One market map and a few takeaways for founders every other Monday.\n\nThis week’s map is **Vertical Quick Commerce (VQC)**, quick commerce unbundled by category (food, fashion, beauty, home services, medicines and more).\n\n**Thought:** quick commerce isn’t just “grocery in 10 minutes” anymore. It’s slowly becoming a default way to buy across multiple categories.\n\nHorizontal QC did the heavy lifting:\n\n* User habit is set (“now > tomorrow”)\n* Infra is in place (dark stores, delivery rails, payments)\n* Demand is dense and repeat\n\nBut horizontal QC is still **broad, not deep**. It’s not optimised for categories that need sizing help, shade matching, recommendations or more curation. That’s where **Vertical Quick Commerce** starts to get interesting.\n\nA few categories that look especially promising:\n\n1. **Fashion & Apparel (₹1K–₹2K AOV)** Try-at-doorstep + easy swaps can pull returns down from \\~40–50% to \\~15–20%. High margins + few"
+        },
+        {
+            "subreddit": "OpenLetter",
+            "title": "Open Letter to Dhanashree Dadasaheb MGhogare and Rajashree Dadasaheb MGhogare",
+            "text": "**Date:** 31/12/2022\n\n**Note:** All characters and names in this post are *fictitious*. Any resemblance to real persons, living or dead, is purely coincidental.\n\n# Why Read This\n\nWe all can see that *Kaliyug* has truly begun.  \nDivorces, broken trust, and emotional breakdowns are rising.  \nSomewhere, someone is fueling this, right?\n\nNo Goddess — not Lakshmi, not Durga — will ever be happy if girls choose to act like this.\n\n>\n\n# Preface\n\nThis story starts back in **2016**, when I met a girl named **Dhanashree** through a mutual friend during my engineering days.\n\nI already knew her from before — we were in the same 12th-grade tuition in 2013 and even drove home along the same route.\n\nAt first, she seemed good-natured. We talked casually on Facebook about studies and daily life. Later, we met a few times when she visited our college and even invited me to her sister’s wedding.\n\nDuring college, I was running a small **E-commerce Affiliate Business** (something like *CouponDunia*), so I wa"
+        },
+        {
+            "subreddit": "MarketingSecrets101",
+            "title": "The Dying Loyalty: Why Convenience is the New King for Brands",
+            "text": "Remember when people swore by one brand for everything, like your dadi might have with a particular brand of tea or soap? Well, those days might be fading. Did you know that 75% of consumers have tried a new shopping behavior in the past 12 months, often driven by convenience, value, or availability, according to McKinsey & Company's 2023 report? It shows how quickly our habits are changing.\n\nNamaste, I'm just an observer, like a friend watching the world over a cup of chai. Lately, I've been noticing something fundamental in marketing: traditional brand loyalty (a consumer's consistent preference for a particular brand) seems to be diminishing, replaced by a much stronger preference for convenience and immediate gratification (the desire to experience pleasure or fulfillment without delay).\n\nIn today's fast-paced world, speed often triumphs over emotional connection. People are less likely to stick to a brand out of sheer habit if a competitor offers a quicker, easier, or more readily"
+        },
+        {
+            "subreddit": "indiasocial",
+            "title": "Welcome to adulting",
+            "text": "Welcome to adulthood\n\nHello, everyone. If you're stepping into adulthood your pockets drain faster than you realise- \n \nHere are some tips of my own to make your transition into adulthood without breaking the bank. \n\n1) Vishal Mega Mart (D-Mart if that is available close by) is your best friend. So, you move into a new place- you realise just how much you need to furnish it. I'm not even talking about furnishing it aesthetically- just basics are pretty expensive these days. \n\nHangers :- Vishal Mega Mart has a pack of 6 hangers for ₹99. Plus, you're not skimping on the quality either. I've had those hangers for over a year and they have held up pretty well. The standard steel ones dipped in various colours come in packs of 6 for 99 rupees. \n\nCleaning essentials :- Vishal Mega Mart has a spin mop for 150-160. It's a standard mop with a rod and a round disk for cleaning. Has worked out very well for me.\n\n-Buy the offbrand toilet cleaners, usually in a combo there with floor cleaner and li"
+        },
+        {
+            "subreddit": "FuckZepto",
+            "title": "Zepto is sending Free empty Amul butter boxes on Janmashtmi. How many of you agree that Blinkit does better marketing? Or instamart?",
+            "text": ""
+        },
+        {
+            "subreddit": "IndianStreetBets",
+            "title": "Instamart, Zepto and Blinkit burned billions while 100,000 kirana stores closed their shutters. Who paid for the “speed”? When margins die for user convenience, the real winners may be gone.",
+            "text": "When margins die for user convenience, the real winners may be gone. Think fast: is hyper-local convenience worth destroying the neighbourhood economy?\n\n\n\n\n\n[Source](https://www.instagram.com/p/DTaKC53kpBB/?igsh=eTc0cXhzYnNhYTZp)"
+        },
+        {
+            "subreddit": "developersIndia",
+            "title": "Built a free app to compare real-time cab fares (Uber, Ola, Rapido, Namma Yatri) and groceries (Blinkit, Zepto, Instamart) - all in one place",
+            "text": "I originally built Comparify to compare prices and delivery times between Blinkit, Zepto, and Instamart, mainly because I was tired of overpaying for everyday groceries.\n\nJust added a new feature that might be even more useful:\n\nYou can now compare real-time cab fares across Uber, Ola, Rapido, and Namma Yatri, showing your actual account prices including any offers.\n\nNo more switching between apps. Comparify shows all fares in one place, and you can tap to book - it deep-links to the selected app with pickup & drop pre-filled.\n\n# Why does it ask you to log in?\n\nAll these services show account-specific prices, which depend on:\n\n* your location\n* any active offers/coupons\n* wallet credits\n* surge pricing\n\nTo show accurate prices, Comparify logs you into each service on your device only.\n\nLogin sessions are securely stored locally on your device and used only to fetch prices.\n\nTech Stack:\n\n* Frontend: Expo (React Native)\n* Styling: NativeWind (TailwindCSS for React Native)\n* Backend/API l"
+        },
+        {
+            "subreddit": "FuckZepto",
+            "title": "If you search Zepto on Swiggy Instamart, you see brooms.",
+            "text": ""
+        },
+        {
+            "subreddit": "delhi",
+            "title": "In the age of blinkit, zepto/ swiggy instamart and now amazon quick delivery, is anyone still religiously going to the grocery store or super market?",
+            "text": "When I lived abroad briefly, it was such a pleasure to plan my meals, step out on the clean roads, the good air and visit the organised super markets and buy my groceries. Fair price, fresh ingredients, no bargaining and one price for all customers. In Delhi, blinkit has spoiled me and i dont mind paying the added delivery charges - not realising how much i end up payint for delivery alone, given I order multiple times a week due to lack or organisation. Would love to know how others are maintaining their household? "
+        },
+        {
+            "subreddit": "developersIndia",
+            "title": "Made my first Expo app: Compare prices between Instamart, Zepto and Blinkit!",
+            "text": "Hey everyone,\n\nYou know that little dance you do before ordering groceries?\n\nYou open Blinkit, add your stuff. Then comes that nagging thought... “Is this cheaper on Zepto? Or who can deliver faster?” So you switch apps, search again, compare delivery times. Then maybe check Instamart too - just to be sure. It’s a whole routine.\n\nI got tired of doing this every time, so I built Comparify.\n\nIt’s a simple app that lets you see real-time prices and delivery times for the same products across Blinkit, Instamart, and Zepto - all in one place.\n\nHere’s what it does:\n\nLive delivery times: Instantly see which store can deliver fastest in your area — before you even start browsing.\n\nPrice comparison: Search for any item and see the current price across all three platforms side by side.\n\nSmart matching: It recognizes that \"Amul Butter\" on one app is the same as \"Salted Butter\" on another, and even calculates the price per gram/ml — so you know what’s actually a better deal.\n\nCompare your full car"
+        },
+        {
+            "subreddit": "StartUpIndia",
+            "title": "Quick-commerce is taking Bribes to Onboard Brands!?",
+            "text": "I mean what the hell is happening! First time ever I saw a “Rishwat Culture” in Private Sector in India, Quick Commerce is doing it! \n\nSo Apparently, As a D2C Brand I am trying to get listed on Quick-Commerce. But it’s another level of exploitation happening here. Even for a brand like us who featured on Shark Tank.\n\nIn Swiggy Instamart, The Category Manager asked for ₹75,000 to onboard my Brand. And duh he didn’t do the conversation himself, he used a different POC. Crazyyyy!\n\nIn Zepto, They asked me a ₹45 Lakhs Ad Spend for a quarter, if I have go live while offering a PO of only ₹15 Lakhs altogether! \n\nAnd In Blinkit, they are only onboarding you for the states you have a GST Registration for in that too while keeping a 25% Margin on the product and taking a rent of ₹1/per day/per product for keeping it  in their warehouse.\n\nIt’s honestly frustrating, Quick-commerce is exploiting brands, Customers want quick delivery and cheap products and Investors want Profitability.\n\nHow do you g"
+        },
+        {
+            "subreddit": "IndiaBusiness",
+            "title": "Introducing Zoro - a new Quick Commerce app.",
+            "text": "It allows local shops to create their digital store for free and customers to buy their products directly online without visiting the shop or getting extra charges on other quick commerce apps with instant delivery by rider.\n\nIt is highly needed cuz right now market is controlled by Quick Commerce apps like Zepto and Blinkit in India that sell their products through dark stores and customers have become very addicted to this that most of them do not like to visit shop now which has decreased local shops revenue alot. So now customers don't need to visit shops anymore they can directly buy anything from local shops through Zoro app.\n\nZoro app provides instant delivery from nearest local shops, returns and even offers feature for shops to attract more customers with conditions.\n\nWe have completed everything including shops reviews about the app and marketing plan. Shops are gladly accepting registration on the app as they are getting online orders for original product prices.\n\nWe are sta"
+        },
+        {
+            "subreddit": "indianstartups",
+            "title": "Introducing Zoro - a new Quick Commerce app for local shops.",
+            "text": "It allows local shops to create their digital store for free and customers to buy their products directly online without visiting the shop or getting extra charges on other quick commerce apps with instant delivery by rider.\n\nIt is highly needed cuz right now market is controlled by Quick Commerce apps like Zepto and Blinkit in India that sell their products through dark stores and customers have become very addicted to this that most of them do not like to visit shop now which has decreased local shops revenue alot. So now customers don't need to visit shops anymore they can directly buy anything from local shops through Zoro app.\n\nZoro app provides instant delivery from nearest local shops, returns and even offers feature for shops to attract more customers with conditions.\n\nWe have completed everything including shops reviews about the app and marketing plan. Shops are gladly accepting registration on the app as they are getting online orders for original product prices.\n\nWe are sta"
+        },
+        {
+            "subreddit": "u_TheMktPlace_",
+            "title": "What is MarketPlace?",
+            "text": "&#x200B;\n\nhttps://preview.redd.it/janfusxyr6w61.png?width=500&format=png&auto=webp&s=bc92cdcb6f8f3ccf82abedbd595766c796ab604e\n\nIn essence, Marketplace is a store for retail people, it is a distribution platform where e-commerce stores offer their products and services, in the same way that offline shopping centers do with products and services from physical stores. The marketplace is a digital showcase where you can find any product at any time and from anywhere.\n\nSo, what differs us from conventional online stores? We propose to be a fully descentralized platform and 100% crypto friendly. In fact, payments will only be made with cryptocurrencies (fiat & stable coins allowed).\n\n## MARKETPLACE’S MISSION\n\nOur Main mission is to create an online platform that acts as a neutral third party to interact both with Buyers and Sellers. We want to offer the same benefits that online and conventional shopping center offer — which is to find anything you want or like to buy — but with the huge dif"
+        },
+        {
+            "subreddit": "HFY",
+            "title": "Wearing Power Armor to a Magic School (135/?)",
+            "text": "[First](https://www.reddit.com/r/HFY/comments/yd3cu3/wearing_power_armor_to_a_magic_school_1/) | [Previous](https://www.reddit.com/r/HFY/comments/1lt75d2/wearing_power_armor_to_a_magic_school_134/) | [Next](https://www.reddit.com/r/HFY/comments/1m4w7c8/wearing_power_armor_to_a_magic_school_136/)\n\n[Patreon](https://www.patreon.com/Jcb112) | [Official Subreddit](https://www.reddit.com/r/JCBWritingCorner/) | [Series Wiki](https://www.reddit.com/r/hfy/wiki/series/wearing_power_armor_to_a_magic_school/) | [Royal Road](https://www.royalroad.com/fiction/70510/wearing-power-armor-to-a-magic-school)\n\n**The Crown Herald Town of Elaseer. Riverfront. His Eternal River Boat (HERB) Pursuit of Constance. Pleasure and Recreation Deck. Local Time 1400 Hours.**\n\n**Emma**\n\nIf you’d have asked me a day ago what I expected to be doing at the start of the dragon quest, then *receiving the honorary rank and title of siege lord* definitely wouldn’t have been on my radar, let alone on my list. \n\n“And to you, C"
+        },
+        {
+            "subreddit": "Superstonk",
+            "title": "You've been here for years and want to vote NO? You do you, I vote YES",
+            "text": "https://preview.redd.it/x3gi1r64qt0h1.png?width=845&format=png&auto=webp&s=564d9ab31a825096619f57671c4e0cb25d90f284\n\nYou telling me, you've been here for YEARS and been crying when will this company do something, they issued shares, built cash and you still here? But the moment he tells you exactly what he wants, EBAY, you want to say NO?! READ, \"**THE BOARD UNANIMOUSLY RECOMMENDS THAT STOCKHOLDERS VOTE FOR THE APPROVAL OF THE AUTHORIZED SHARES AMENDMENT.** PROXIES SOLICITED BY THIS PROXY STATEMENT WILL BE VOTED FOR THIS PROPOSAL UNLESS A VOTE AGAINST THE PROPOSAL OR AN ABSTENTION IS SPECIFICALLY INDICATED. \"\n\nYOU'RE TELLING ME RYAN COHEN BUILT THIS TEAM TO WORK ALMOST FOR FREE TO DILUTE THEMSELVES?! Holy, some of you be like \"Gotta have pressure to be diamond hands\", but when PRESSURE presents itself you FOLD?! LOL\n\nPeople already said and got the point, RC doing a Berkshire play of just utilizing more shares to be more flexible, people screaming MOASS, are cringe, what in the fk is M"
+        },
+        {
+            "subreddit": "smallbusinessindia",
+            "title": "Planning to build an e-commerce/quick commerce pet brand need serious advice",
+            "text": "25M Ready to get into the pet industry with a brand for pet products. Currently researching the first 9 sku's to keep and finding hero products for my brand.  \n\nI've a little experience in marketing which will help me in marketing the brand voice and brands usp online. \n\nThis is my first ever business that I'm getting my hands into myself. I'm looking for advice from fellow business owners and people who are already in this space. \n\nWhat things are the most important before I decide on my brand products? Is white labeling products in this category really expensive? \n\nPlease share your thoughts and support. "
+        },
+        {
+            "subreddit": "IndianCreditCards",
+            "title": "BoB Eterna no reward on quick commerce apps like Zepto?",
+            "text": "BoB eterna does not provide reward points on Zepto and JioMart. I placed order thinking will get 5X rewards for online spends but turns out there actually no rewards at all since their MCC comes under supermarket (5144).\n\nHas anyone else faced this issue? Will same problem persit on swiggy ans blinkit as well?"
+        },
+        {
+            "subreddit": "indianstartups",
+            "title": "I spent the last month talking to category managers at Indian e-commerce companies. The same four blind spots came up almost every time.",
+            "text": "Quick context so this doesn't read like a humblebrag: I run a dataset that tracks around 3,500 Indian D2C brands across 429 niches, and over the last month I ended up on calls with a dozen-odd category managers (marketplaces, a few vertical e-com folks, a couple from quick commerce). I went in expecting to hear about logistics and margins. Instead I kept hearing the same four things, and all of them boil down to \"I'm making selection calls half-blind.\" Sharing because the pattern was too consistent to ignore, and honestly most of it is solvable with data that already exists. It's just scattered across five places and nobody has time to stitch it together every week.\n\n**1. \"I find out a brand is hot only after it's already on three competitor platforms.**\"\n\nThis was the loudest one. By the time a rising brand hits your GMV reports or your buyer's inbox, the window to onboard it on good terms is basically closing. But the signal shows up way earlier somewhere else: a brand's search inter"
+        },
+        {
+            "subreddit": "SurveyExchange",
+            "title": "[Academic] [India] How do you actually use quick-commerce apps like Blinkit?",
+            "text": "Hey folks! 👋\n\nWorking on a short consumer habit study exploring how people browse and buy across different categories on quick-commerce apps (and what stops us from trying new categories).\n\n* **Time required:** \\~3–4 minutes\n* **Format:** Single-choice / Checkboxes (No mandatory text entry)\n* **Privacy:** 100% Anonymous (No email collection)\n\nIf you've used quick-commerce apps in India over the last few months, I’d really appreciate your input:\n\n🔗 **Survey Link:** [https://forms.gle/PtRT4TNkZYBSVaYv6](https://forms.gle/PtRT4TNkZYBSVaYv6) \n\n🔁 **SurveySwap users:** The completion code will be displayed on the final page after you submit!\n\nHappy to share the aggregated findings back with the sub if anyone is interested in consumer trend data!"
+        },
+        {
+            "subreddit": "SurveyExchangeIndia",
+            "title": "[4-Min Survey] How do you actually use quick-commerce apps like Blinkit?",
+            "text": "Hey folks! 👋\n\nWorking on a short consumer habit study exploring how people browse and buy across different categories on quick-commerce apps (and what stops us from trying new categories).\n\n* **Time required:** \\~3–4 minutes\n* **Format:** Single-choice / Checkboxes (No mandatory text entry)\n* **Privacy:** 100% Anonymous (No email collection)\n\nIf you've used quick-commerce apps in India over the last few months, I’d really appreciate your input:\n\n🔗 **Survey Link:** [https://forms.gle/PtRT4TNkZYBSVaYv6](https://forms.gle/PtRT4TNkZYBSVaYv6) \n\n🔁 **SurveySwap users:** The completion code will be displayed on the final page after you submit!\n\nHappy to share the aggregated findings back with the sub if anyone is interested in consumer trend data!"
+        },
+        {
+            "subreddit": "ShareBazarIndia",
+            "title": "Quick Commerce just another category for Flipkart; see no merit in having 6-7 players: Group CEO Kalyan Krishnamurthy",
+            "text": ""
+        },
+        {
+            "subreddit": "indianstartups",
+            "title": "Ready to eat salads in retail channels like supermarkets and quick commerce",
+            "text": "So I've been obsessing over this idea for a few months and I want some brutal honesty from people who actually live and eat in Indian cities.\n\nThe inspiration came from Taylor Farms, a massive salad kit brand in the US that sells chopped salad kits in every grocery store. You open the bag, throw in the dressing and toppings sachets, toss, and you have a proper meal in 2 minutes. It's a billion-dollar category there. The kits are genuinely good, fresh, filling, and varied enough that people buy them on repeat. I kept thinking: why does nothing like this exist in India? And more importantly, could it work here?\n\nThe concept: a ready-to-toss salad kit designed specifically for Indian palates. Think red cabbage, green cabbage, carrot, iceberg, baby corn, kabuli chana — plus a separate dry topping sachet (makhana, sesame seeds, birista, dehydrated tomato) and dressings that actually taste good. \n\nThe whole thing takes 2 minutes: open bag, tear sachets, toss. Around 300g, which is filling as"
+        },
+        {
+            "subreddit": "eCommerceSEO",
+            "title": "Best Architecture for Quick Commerce + Nationwide E-commerce?",
+            "text": "I'm working on a large e-commerce website that has **three different business models running on the same domain**, and I'm trying to determine the best long-term architecture.\n\n# Current setup\n\nWe have three delivery models:\n\n* **10-minute delivery** – Available only in selected cities and pincodes.\n* **Next-day delivery** – Available in Tier-1 cities.\n* **Country-wide delivery** – Available across all locations.\n\nMost products are available in all three business models.\n\nFor the same product, we have URLs like:\n\n    example.com/product-name/pd299bhfk\n    example.com/product-name/pd299bhfk?bu=local\n    example.com/product-name/pd299bhfk?bu=grocery\n    \n\nThe URLs differ only by a parameter because changing the URL structure isn't an option.\n\n# What's different across the three versions?\n\nThese pages are **not exact duplicates**. They have different:\n\n* Stock availability\n* Delivery promise\n* Price (for some products)\n* Offers\n* Similar/recommended products\n* Slightly different UI/design"
+        },
+        {
+            "subreddit": "GenAIGallery",
+            "title": "Prompt to generate Quick Commerce Social Media Poster Design using Chat GPT 2.0",
+            "text": "Prompt:\n\n\"Create a premium vertical 4:5 quick-commerce advertising poster for \\[BRAND NAME\\].\n\nVISUAL STYLE DNA\n\nMaintain the exact same visual language across all generations.\n\nPremium commercial advertising, luxury editorial product photography, modern technology campaign aesthetic, clean composition, high-end art direction, hyper-realistic materials, soft cinematic depth, minimal clutter, strong hierarchy, agency-quality execution.\n\nThe final image should feel like a campaign created by Apple, Nike, Airbnb, Uber Eats, and premium FMCG advertising teams.\n\nModern premium UI aesthetic: glassmorphism, subtle gradients, layered depth, floating interface elements, refined micro-interactions, elegant visual storytelling, sophisticated motion graphics, luxury digital-first design.\n\nCOMPOSITION SYSTEM\n\nVertical 4:5 format with a consistent editorial grid, generous negative space, strong hierarchy, and balanced visual flow.\n\nLEFT SIDE\n\nBrand logo, large bold campaign headline, supporting copy"
+        },
+        {
+            "subreddit": "HFY",
+            "title": "Wearing Power Armor to a Magic School (110/?)",
+            "text": "[First](https://www.reddit.com/r/HFY/comments/yd3cu3/wearing_power_armor_to_a_magic_school_1/) | [Previous](https://www.reddit.com/r/HFY/comments/1hewzzh/wearing_power_armor_to_a_magic_school_109/) | [Next](https://www.reddit.com/r/HFY/comments/1i536uo/wearing_power_armor_to_a_magic_school_111/)\n\n[Patreon](https://www.patreon.com/Jcb112) | [Official Subreddit](https://www.reddit.com/r/JCBWritingCorner/) | [Series Wiki](https://www.reddit.com/r/hfy/wiki/series/wearing_power_armor_to_a_magic_school/) | [Royal Road](https://www.royalroad.com/fiction/70510/wearing-power-armor-to-a-magic-school)\n\nThe world around me faded into the background.\n\nNoises became muffled.\n\nConversations sounded distant. \n\nExplosions barely broke through the mental barrier that was forming between all senses save for sight.\n\nMy eyes remained transfixed not on the brilliant fireworks displays nor the zipping of upper-yearsmen on fantastical beasts, but instead… on the backdrop they all seemingly ignored.\n\nThe starl"
+        },
+        {
+            "subreddit": "Superstonk",
+            "title": "15 Reasons of Why We Vote Yes - Part 2",
+            "text": "# Part 2 - Scaling Growth -- How the Ebay deal creates way more opportunities than GameStop ever could\n\nWhat's up apes. It's voting time.\n\nhttps://preview.redd.it/ddomtvowph3h1.png?width=1176&format=png&auto=webp&s=cf68628b78a353b0ad773919540ef277e3cd032c\n\n[Source](https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Announces-Long-Term-Performance-Award-for-Ryan-Cohen/default.aspx). RC Compensation Package - Tranche tiers\n\n\\---\n\nIn part 1, I\\* covered the math of deal, looking at how the Ebay acquisition will be EPS accretive, the pro forma numbers after year 1, and the evidence for what kind of deal is likely to land based on Ebay's current balance sheet, GME's, the shareholder meeting prospectus, and other information, such as Cohen slurry of interviews. If you missed part 1, definitely read that first, then come back here.\n\n[Part 1 Post](https://www.reddit.com/r/Superstonk/comments/1tkwdyr/15_reasons_why_we_vote_yes_part_1/?utm_source=share&utm_medium=web3x&utm_na"
+        },
+        {
+            "subreddit": "ProductManagement_IN",
+            "title": "PMs in quick commerce - what still feels broken in your daily workflow?",
+            "text": ""
+        },
+        {
+            "subreddit": "WordpressPlugins",
+            "title": "We built a lightweight WooCommerce Product and Category Slider and would love feedback [PROMOTION]",
+            "text": "My colleague and I recently started a small startup, and we just released one of our first WordPress plugins in the official WordPress plugin directory.\n\nIt is called Amitry Product and Category Slider for WooCommerce.\n\nFor us, this was a big milestone. Seeing our own plugin live in the WordPress directory was honestly a very special moment, because we have put a lot of time, care and heart into building it.\n\nThe reason we built Amitry is simple. We felt that many WooCommerce slider plugins are either too heavy, too complicated, too focused on visual effects, or locked into one specific builder. We wanted to create something cleaner and more practical for real WooCommerce stores.\n\nAmitry lets store owners display product sliders and category carousels in Gutenberg, Elementor or with shortcodes. It includes responsive settings, flexible styling options, product and category layouts, local Swiper assets, server rendered HTML, and CSS and JavaScript are only loaded on pages where a slider"
+        },
+        {
+            "subreddit": "StartUpIndia",
+            "title": "Ready to eat salads in retail channels like supermarkets and quick commerce.",
+            "text": "So I've been obsessing over this idea for a few months and I want some brutal honesty from people who actually live and eat in Indian cities.\n\nThe inspiration came from Taylor Farms, a massive salad kit brand in the US that sells chopped salad kits in every grocery store. You open the bag, throw in the dressing and toppings sachets, toss, and you have a proper meal in 2 minutes. It's a billion-dollar category there. The kits are genuinely good, fresh, filling, and varied enough that people buy them on repeat. I kept thinking: why does nothing like this exist in India? And more importantly, could it work here?\n\nThe concept: a ready-to-toss salad kit designed specifically for Indian palates. Think red cabbage, green cabbage, carrot, iceberg, baby corn, kabuli chana — plus a separate dry topping sachet (makhana, sesame seeds, birista, dehydrated tomato) and dressings that actually taste good. \n\nThe whole thing takes 2 minutes: open bag, tear sachets, toss. Around 300g, which is filling as"
+        }
+    ],
+    "app_store_reviews": [
+        {
+            "rating": "5",
+            "title": "Good",
+            "text": "Useful app for bangalore lazy people",
+            "author": "Themohanreddy1"
+        },
+        {
+            "rating": "1",
+            "title": "spineless",
+            "text": "spineless",
+            "author": "Neshborana"
+        },
+        {
+            "rating": "5",
+            "title": "Good",
+            "text": "Good",
+            "author": "Samha shakkeer"
+        },
+        {
+            "rating": "5",
+            "title": "Satvik",
+            "text": "Thanks blikit",
+            "author": "Thakursatvik"
+        },
+        {
+            "rating": "1",
+            "title": "Boycott",
+            "text": "Suspended delivery at jantar mastar during peaceful protest",
+            "author": "Jinal0801"
+        },
+        {
+            "rating": "4",
+            "title": "Handling charge and limited qty",
+            "text": "I wanted to buy a hair color worth 374 and they added handling charge to it making it 391.. which I understood was fine but then I wasn’t allowed to add two quantities . So it’s like I need to buy twice and pay for handling charges for the same product I know I want at the same time..",
+            "author": "My lil experience with you"
+        },
+        {
+            "rating": "1",
+            "title": "Misleading service availability",
+            "text": "The app shows that my location is serviceable and allow me to browse products. Add them to my cart and Proceed to check out. Only at the final step does it display “ Store is temporarily unavailable, Please try again sometime” - again and again. This is frustrating waste of the customer time. If the store is unavailable. The app should clearly indicate that before lettering users user Shop.\n\nAnother major issue is the lack of an option to permanently delete my account. Now, I don’t want to use the Flipkart services, I should have the right to permanently remove my account and personal data instead of living it stored on your server. \n\nadvise how to delete my account permanently?",
+            "author": "JK Haniya"
+        },
+        {
+            "rating": "1",
+            "title": "Overhyped Quick Delivery App",
+            "text": "Most Products are prices higher than all competitors(Flipkart Minutes,Amazon Now,Swiggy Instamart,Zepto,Bigbasket Now,Jiomart) with hardly any offers(payment) with high delivery charges and handling charges which most players in this domain aren’t charging any on minimum order value as less as 99 bucks.\nI hardly order on Blinkit because of these charges imposed on the customer.\nBut sometimes we are forced to order certain items which aren’t available elsewhere.\nYou aren’t a niche player.\nPlease try and understand.\nJust having a catchy name wouldn’t let you survive long in this cut throat market.\nWe all saw what happened with Paytm despite having first mover advantage.",
+            "author": "Rishiuppal07"
+        },
+        {
+            "rating": "1",
+            "title": "Driver is throwing unnecessary comments",
+            "text": "Bad",
+            "author": "A so cfffx"
+        },
+        {
+            "rating": "5",
+            "title": "Very good service",
+            "text": "Excellent",
+            "author": "Sumi’s collection"
+        },
+        {
+            "rating": "1",
+            "title": "Return policy of a damage product is not good",
+            "text": "I ordered body weight machine and it was stop working within 10 days and replacement policy is only for 7 days",
+            "author": "hs#@"
+        },
+        {
+            "rating": "1",
+            "title": "Rude vendor",
+            "text": "It’s disheartening that the vendor is so rude regarding the coins given",
+            "author": "Akanksha 89"
+        },
+        {
+            "rating": "1",
+            "title": "Limited assortments",
+            "text": "Limited assortments and limited offers",
+            "author": "Harpal111"
+        },
+        {
+            "rating": "3",
+            "title": "Bad service charges",
+            "text": "The service charges and types of service charges this platform offers are way too much and not convenient for normal people",
+            "author": "Piu@55"
+        },
+        {
+            "rating": "1",
+            "title": "SHAME ON YOU",
+            "text": "Deleting Blinkit.\n\nShame on you. You built your business on the support of ordinary people, but when it mattered, you chose not to stand with them. Whether or not people agree with your decisions, trust is hard to earn and easy to lose.\n\nPeople don’t forget who stood by them and who didn’t. I won’t be supporting your platform anymore.",
+            "author": "klizand"
+        },
+        {
+            "rating": "1",
+            "title": "This Blinkit is a Scam",
+            "text": "I order charger on Blinkit and the amount was debited and after a minutes I received a message the teams cannot be delivered and will send a refund in 3-5 business days. It’s already a months I haven’t received any refund",
+            "author": "Bewakoof is scam"
+        },
+        {
+            "rating": "1",
+            "title": "Sarkar ke dale",
+            "text": "Ye sarkar ke dale hai bha*ve chatu log jantar mantar me food nahi bhej rahe sarkar ki sun ke tum salo bha*vo tumhara adha business ye students se chalta hai aj apni ma ch**a  rahe ho tum log we will boycott u",
+            "author": "Hardeep9090"
+        },
+        {
+            "rating": "1",
+            "title": "Disappointed",
+            "text": "In this high time protest you are not delivering products. Have some shame",
+            "author": "Havesomeshame"
+        },
+        {
+            "rating": "1",
+            "title": "Shame",
+            "text": "Shame on you . I wish your family face same problem as a protester face",
+            "author": "Geetminno"
+        },
+        {
+            "rating": "5",
+            "title": "Ok For Delivery",
+            "text": "Fast service",
+            "author": "Vipul’solanki"
+        },
+        {
+            "rating": "1",
+            "title": "Blinkit is BS 👎",
+            "text": "Losers, take the L.",
+            "author": "Shriya R13"
+        },
+        {
+            "rating": "5",
+            "title": "God bless this app",
+            "text": "Love it, the UI is too good",
+            "author": "sagarOceanix"
+        },
+        {
+            "rating": "1",
+            "title": "Anti india",
+            "text": "This app works against india and its students. Bsdiwalon protest site pe order bhijwao",
+            "author": "Indian student69"
+        },
+        {
+            "rating": "1",
+            "title": "Not working",
+            "text": "At the time of protest corporate took his side",
+            "author": "Studentjan"
+        },
+        {
+            "rating": "5",
+            "title": "No doubt",
+            "text": "No doubt it is last moment app in India",
+            "author": "ms757511"
+        },
+        {
+            "rating": "5",
+            "title": "Good Service",
+            "text": "Any time we can do shopping along with printing out mad our life very convenient specially for those who cannot go in night",
+            "author": "Srrks"
+        },
+        {
+            "rating": "1",
+            "title": "Bad",
+            "text": "Worst",
+            "author": "Eeshabagla"
+        },
+        {
+            "rating": "1",
+            "title": "ICICI bank does not work in this",
+            "text": "ICICI bank does not work in this",
+            "author": "Jd1234de"
+        },
+        {
+            "rating": "1",
+            "title": "Wrost",
+            "text": "Not install",
+            "author": "Utsavbhavsar0702"
+        },
+        {
+            "rating": "5",
+            "title": "Very Gud",
+            "text": "Goood",
+            "author": "12chinni"
+        },
+        {
+            "rating": "4",
+            "title": "Vgood",
+            "text": "Perfect",
+            "author": "Kiranrawat"
+        },
+        {
+            "rating": "1",
+            "title": "No support. No business",
+            "text": "Uninstalling if you can’t support our students and deliver to the delhi protest site. Then we don’t need you. There are many platform’s are available, and I will encourage everyone to uninstall your app. Lets see how the gov supports you then.",
+            "author": "Rohit_Garg"
+        },
+        {
+            "rating": "1",
+            "title": "Support team is very poor",
+            "text": "After multiple attempts, their support team will not understand and they don’t have a genuine issue resolution as they can’t provide the resolution so they just give the mail and say sorry and nothing else it is really a bad service which you Blinkit will provide too their customer. Very dissatisfaction and it’s completely waste of customer money. They don’t value the customer time and money, and if you order and if something happen, they don’t provide any return refund or any support of this. They just ignore.",
+            "author": "Rockstar Twinkle"
+        },
+        {
+            "rating": "1",
+            "title": "Boycott",
+            "text": "Worst app block report this app and avoid ordering from these apps",
+            "author": "Rishi<23"
+        },
+        {
+            "rating": "5",
+            "title": "Good App",
+            "text": "Love it",
+            "author": "My mackup"
+        },
+        {
+            "rating": "1",
+            "title": "No payment option works",
+            "text": "None of the payment options are working",
+            "author": "RajeshKumarRajput"
+        },
+        {
+            "rating": "1",
+            "title": "Additional charges at the end of payment",
+            "text": "Additional charges at the end of payment",
+            "author": "PuneBaner"
+        },
+        {
+            "rating": "5",
+            "title": "Good",
+            "text": "Good",
+            "author": "Akashrk"
+        },
+        {
+            "rating": "2",
+            "title": "Absurd fees",
+            "text": "It’s been a while since i started using blinkit and never complained before but suddenly you guys increased the handling fees to ₹9 when you don’t even handle the products well as often i get soggy ice creams and dirty packets! On top of that your absurd policy of free delivery on products over ₹199, otherwise delivery charge of ₹30! Do you seriously expect us to order products worth ₹199 every single time??!! Not everyone can afford to order products at this much price every single time! And the delivery fees is too much! The blinkit store in my area isn’t even far it’s just 5-7 minutes away and still you are charging so much from your customers at least lower the minimum amount required for free delivery!",
+            "author": "Salvatore2345"
+        },
+        {
+            "rating": "5",
+            "title": "Supper",
+            "text": "Very fast delivery liked it y",
+            "author": "heena dev"
+        },
+        {
+            "rating": "4",
+            "title": "hehe",
+            "text": "cute app😭🫪",
+            "author": "Ninistayys"
+        },
+        {
+            "rating": "1",
+            "title": "Fraud Application guys. Don't install",
+            "text": "Item received is entirely different from whats shown. & There is absolutely 0 customer care. No way to chat with them or call them.",
+            "author": "Vishnu Vizs"
+        },
+        {
+            "rating": "5",
+            "title": "First time use give me 50 rupee offer",
+            "text": "Good",
+            "author": "YOGA BAR"
+        },
+        {
+            "rating": "1",
+            "title": "Ordered a bouquet. Got one full of insects",
+            "text": "I ordered a bouquet which was delivered in nice packaging. On touching the flowers I noticed so many little insects crawling inside it. My skin started itching and I am not allergic to any flowers. When I tried to reach customer support, they just kept closing the chat - no conversation, no attempted resolution, no reverse pickup or refund! Not even an apology.",
+            "author": "MehakGarg"
+        },
+        {
+            "rating": "1",
+            "title": "No offers and no discount",
+            "text": "No offers and coupon also not given campare to other blinkit waste",
+            "author": "Anilkumar anil"
+        },
+        {
+            "rating": "5",
+            "title": "Only giving 5 stars because of no platform fee",
+            "text": "Only because of low convenience fee",
+            "author": "Yashasnanda"
+        },
+        {
+            "rating": "1",
+            "title": "Poor support",
+            "text": "Order gets cancelled without notification and customer support is a cheat. Worst support team.",
+            "author": "Sree6692"
+        },
+        {
+            "rating": "5",
+            "title": "About shopping",
+            "text": "Blinkit has completely changed the way I shop for groceries and daily essentials. The delivery speed is genuinely mind-blowing,I don't know how they do it! The app is super user-friendly, making it easy to browse and find exactly what I want . The products are always fresh, well-packaged, and reasonably priced. Highly recommend to anyone looking for convenience and speed.",
+            "author": "Sanjeeta singh"
+        },
+        {
+            "rating": "5",
+            "title": "Super",
+            "text": "Good",
+            "author": "Moksha Lj Gowda"
+        },
+        {
+            "rating": "4",
+            "title": "Oats",
+            "text": "Fab delivery 😊👍🏻",
+            "author": "Shubh💪🏻"
+        }
+    ],
+    "play_store_reviews": [
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "दलाल दलाल दलाल दलाल, क्या हुआ? कहाँ गए? क्यों गायब हो रहे हो? jantar mantar location not available blinkit tum bhi resign do दलाल दलाल दलाल दलाल, ये क्या चल रहा है? दलाल दलाल दलाल दलाल, स्थान बंद, सेवा खत्म, , सब कुछ बेकार। दलाल दलाल दलाल दलाल, बताओ क्या हो रहा है? दलाल दलाल दलाल दलाल –",
+            "author": "Shubham kumar"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "okay now.................!????????????????????",
+            "author": "Unknown Name"
+        },
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "update 3: since I stopped ordering from Blinkit 🎉 and Zomato company I have saved rs 8000 in just three months... plus efforts are saved on taking the mad delivery guys 📦... really happy with my decision...",
+            "author": "richa rai"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "👌",
+            "author": "Pooja Gudimani"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "good prompt service",
+            "author": "nilesh pandya"
+        },
+        {
+            "rating": "4",
+            "title": "Play Store Review",
+            "text": "very quick sarvis",
+            "author": "Narendra Sharma"
+        },
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "bakwas app hai, cancel order button nahi hai, or delevery boy ne 75 rupees scam kar liye mujhe se",
+            "author": "ANISH KUMAR"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "service is amazing. but change in address becomes quite difficult.",
+            "author": "Harshada Dafale"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "wow",
+            "author": "Uzma Khatoon"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "good",
+            "author": "Adarsh Adi"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "awesome delivery",
+            "author": "OMNI VEGETA 2"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "this app is very nice and also soo useful",
+            "author": "Manoj Raghav"
+        },
+        {
+            "rating": "4",
+            "title": "Play Store Review",
+            "text": "Good Discount and fast delivery easy to selected item 👌",
+            "author": "Babli Sonker"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "very nice service provider",
+            "author": "Chandni Jha"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "vry good,,,,soo fast,,,good to take Care.....love it .✌️✌️✌️✌️✌️✌️😊😊😊😊😊😊",
+            "author": "Chandrani Das"
+        },
+        {
+            "rating": "4",
+            "title": "Play Store Review",
+            "text": "good",
+            "author": "S.viswa santhi"
+        },
+        {
+            "rating": "4",
+            "title": "Play Store Review",
+            "text": "Great performance",
+            "author": "Rohan Shrivastav"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "good",
+            "author": "Raunak Singh"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "good experience",
+            "author": "Samarth Raj"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "good 👍",
+            "author": "Vishva Aparnathi"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "fast delivery great app 🫶",
+            "author": "Anamika Sen"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "best",
+            "author": "Govind Pal"
+        },
+        {
+            "rating": "2",
+            "title": "Play Store Review",
+            "text": "much more delivery charges",
+            "author": "Kumari Diksha"
+        },
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "Good",
+            "author": "Dk singh"
+        },
+        {
+            "rating": "4",
+            "title": "Play Store Review",
+            "text": "blinkit app sabhi best app mein se ek hai, Jo hamare liye itni jaldi service deti Hai",
+            "author": "Anjana Sachdeva"
+        },
+        {
+            "rating": "4",
+            "title": "Play Store Review",
+            "text": "good",
+            "author": "Mahendiran"
+        },
+        {
+            "rating": "4",
+            "title": "Play Store Review",
+            "text": "waiting for orders",
+            "author": "Yogesh Kumar"
+        },
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "Initially there used to be a proper customer service but now the app has the automated AI agent which is utterly unhelpful and frustrating when you are trying to complain about an order. Since it can't distinguish between an order and the add on (allowed in the app if you forgot something), it treats the add on as the latest order and can't help with spoilt items in the main order.",
+            "author": "Swati Singh"
+        },
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "worst experience with late delivery",
+            "author": "Venkatesh Betrala"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "excellent service by Blinkit. Especially for medicines. it provides doctor's consultation also for free. and suggest you better medicines according to your health issues. India is growing!!",
+            "author": "Rashmi Telkar"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "have a good experience ♥️",
+            "author": "Anurag Kushwaha"
+        },
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "Absolute scam of a company. ordered a product got defective and they refused to honor return or refund under disguise of non returnable item. Pathetic",
+            "author": "Apoorv Shrivastava"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "veri fast",
+            "author": "Raval Padmavati"
+        },
+        {
+            "rating": "4",
+            "title": "Play Store Review",
+            "text": "Best",
+            "author": "Setab Alam"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "nise",
+            "author": "Saimani Shankar"
+        },
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "blinkit charging extra mony on everything i will never buy anything from now from blinkit. recently i purchase a lip balm from here so on others app this lip balm price is 198 or 188. but here 222 rs. this is so bad and now they are started adding 12 rs. handeling charge also . 10 minutes delivery is okay but they charged tooo much for everything. instead of this app you can use flipcart minutes or any other app.",
+            "author": "Amisha Chindalia"
+        },
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "no cash on delivery",
+            "author": "Guruprasad TS"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "gud",
+            "author": "VINAY NAIK"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "nice delivery 🚚",
+            "author": "Nurish Saifi"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "excellent service and products are of really very good quality 👌",
+            "author": "Sonal Nirwan"
+        },
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "expired products",
+            "author": "manish munu"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "good 💯",
+            "author": "Himanshu Pandey"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "Fast and excellent service... customer-friendly representatives",
+            "author": "Manjari Singrallu"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "good service",
+            "author": "Md Faiyaz"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "good service",
+            "author": "Karan Makwana"
+        },
+        {
+            "rating": "1",
+            "title": "Play Store Review",
+            "text": "blinkit is fraud app i have orderd 16 july .. cashew the cashews quality is disgusting.. there are no refund.. and today the day is 23 july vendor's are not replace the product and not refunded money also ... mat use karo blinkit aur customer care vale phn nai utathate he",
+            "author": "Atul Shah"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "good",
+            "author": "Vinay Kumar Panday"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "Good",
+            "author": "Manas Pradhan"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "good",
+            "author": "Akash sharma"
+        },
+        {
+            "rating": "5",
+            "title": "Play Store Review",
+            "text": "nice",
+            "author": "Agrawal Manthan"
+        }
+    ],
+    "rss_news": [
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "India's Eternal sees Blinkit profitability at high end of outlook as efficiency improves - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNlNLdkNEOXNPSWx1d2N2WDMzNG1MQ2FGSW1mRUc3ZXNFeExtOEhpMEkwNXNpb1JvcmhJbU9jRTJPbzVkQ1VVVUl6SldJb0lMMUpVeGhWV1NqU2x3ZVhOdFZYQ01jbUEtTUF4cU9FYVIzNC1QNk5TcWlFWi14VzFvdjByRFptZm1Pb05GeTI4TlFuRjJTaXZTYVJoV3dpOGt6eklGZFhvYk9DLW1ialNNRUNRNnlkVmItd1ZFRQ?oc=5",
+            "snippet": "India's Eternal sees Blinkit profitability at high end of outlook as efficiency improves  Reuters"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "‘The new age protest’: Woman orders posters via Blinkit at CJP protest site | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONEU4SjFjcE9PSlB1bzI0VDdUTUR0YWJJci1HVzlJM1p5ZzNvTkEzYkkzNk4wZU9QNVJQNE5mTUdFbWlfNXotdzgtTVJtU1lYOUdKekRlbm5pMnZVUGJWU1Z4eXpSaDBWcXFMYTBpSjEzVWt6QV8xbG1XblBHUVJsX2d2ZnR3LXBZaTI2U2hab0UyNnpQaUpVVkNtYmJ0OTgxbDlSbVhoWEZNSkxZUGlxbTdmUHFYM3NXZzE4RXpLTDY2QjdpcUpJN21mUTdrQdIB0wFBVV95cUxNcy1HLVdWM2JqYldaal9YN25MeU0xM1pFbnZqMW5NdHEta0ZURnUzRGMxdVhqbTlYUU1wQ292TUE5OXAyWWxCUHJhYnlsMGF0SzFSTGc0VnloLXkwNnQxejAwVGI2ZGdUUVlkYTVteTZvS1Zfc0lJSXFMMWdNWXNaVDR3dXRMTzJRclFBMWJkQWQ2a1ZMRWZGUjFWMWxqSmR0dVQ2eTBtX1AzMk91YUt1eUVsb3ZzMUhYZEVUZ2x2dEU4bmNJVEZWdGR5eUhjMWVwMENj?oc=5",
+            "snippet": "‘The new age protest’: Woman orders posters via Blinkit at CJP protest site | Trending  Hindustan Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Delhi Police Issues Advisory Asking Uber, BlinkIt, Zomato, Others To 'Regulate Operations' Near Jantar Mant - News18",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU1dEN0tUenFRRk5Sa1RJbHBGeVYzSU9XNUhlUkN4QVY2UzJjTDhZa3lWbURuVV9QeE9GOVpuRU5KS2RkbjZZSEZ1NFpHeDJuemJzaXczQWtNR291REt6Y2RfVmlacEVrYmhwc01OeGhmREtGOXA3VmptSldqQlNfcEhmYXpsTVQwSUlLcklyVks5TGxPZmttWnJPcWk4amtEOUFnWHZJaF84c1ZVbEhzazVpdkc2c1hvVVJZa0sxcWpjSkJ3OWZRY01YTjdUaG9VanJmR0swVFBhNmNNaFYySlA4b2pPNEnSAewBQVVfeXFMTWd3SXVyLUFoZFZKX28yM3NXTWlpNTRBeVRRdUFYVS1sWGd6NmFrVlB0T0J3LWMyOXN5YXJMbTNIeVprTzhFUWttV0djcGlXX0h2TmxWa2dRWXN5Mk1zaDNhdWt3V0NudmoxYW9RRG9HRUE0ejNFRDFfdkg3VEl1NXhuMFdWTHdOQ2NQUzlfYm9CbjZObXZydlc5X2xPUk4wUEI5MzZTdUNybVB5Q3FBVmZVZWlzcnV6bl9YT2Z2c2drZXR2TlNBUHphTE1PMUJ2cnNUMkI1N1Y0c0JGcFQ2MTJJZEVMaEdIRXhXV1I?oc=5",
+            "snippet": "Delhi Police Issues Advisory Asking Uber, BlinkIt, Zomato, Others To 'Regulate Operations' Near Jantar Mant  News18"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Zepto IPO: Blinkit vs Instamart vs Zepto, how the quick commerce rivals compare - Business Today",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYmpkY2dNem9VeWE0cW5sNWJFc0VNZFJIZEVVUi1BbkVuRUFydXRZbnpjRHdWYThybmVUMW9lMUhaeWFJWXJmSGk1bHJ3SlJucFk0cDB4d1Rha2ZIMnM2c1FOQ210Z3FtbnYxZzR5NmtzMzRkVi04RUJ5elJ1OUlFa05EVkV4UVFzRHBZMllQdU1QcE9nQXBQU2NIcm1uUlBlcXdYaVREMjV1dElpN3NmZnhWWHlXSlVmTTNyS3F3T0xfTWp1alpoQVVIRUxIZTRVWjYtTVFIejNBT2Q5MUw4eWEwRdIB6AFBVV95cUxOcnozNm5FZ2ZETXdUNEp6LWtJQ1IyT3FBR2txdWctS1V6RHJ6LWFZSjJ6S1laRFNBaS14OVRGcEc1Nk1PVVBGc3ViaUk0VmZyYlp5ZVlNZzFqWXVzQ0k0bFZMWld4WEU5ZDBOVjlmTFVNTExTOHJQb0lwM2xWb2w0OG8yaUNhNElsZ3gxa25uZ2IyYUJzYkMyLURRaVRMbm5vN0I4M0w2OWpCSEZDZmF4b281Q3RHRzhoeTFBeGpJTXZUcXZxb0xKSWg5NlRzakZ5Y1hNYWxzMXdhYlAzT29iTUFrR3lGVDM4?oc=5",
+            "snippet": "Zepto IPO: Blinkit vs Instamart vs Zepto, how the quick commerce rivals compare  Business Today"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit to open gourmet dark stores in select location in top 8 cities - BusinessLine",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYURUTy1VR0s3UDlBNl9wcHJOM2dWQ0x0V1lSc08yNnp3OXVxdHdsVDEtWXl0TXYtMHpab3kwZHFFWkZaLVAzTU90U0JCZEpBYUZmbHhvZUFKZEFMVmh2VG93U1MtTS0wQVZTMTUwTV9FcWxpZWNLb0ZEeEc5LUhNdTlVOG0yQU1DdWRuVHlBOHhYY0NHUlF5aFM1dGIyQ1VDaFBaZWhhTFlRZTNfSTlSNUQzWTJlRXpkcWxhS3J3RkRMWjFEX1VJT256VFlwLV9YTnpN0gHaAUFVX3lxTFBTUHYzZzRydXlsVzJlQUVSRXNuUmNZbWxhbVZveVVBWERVUVljZFBtSVdrTTFTSkxCWXJnS0xkZG9NRzdGM2hqUVVXVWd6QWwtVVpkSnNWckZ5c3dsSjMwZnN5dDR4N3l5LU8tekhtY3NOYmZEV2RJMWxZREdBUGxQckxzcVlwb19rRW1JV0JvSWVzSV9uWXhrNzNlRUQxTEsyTkJxNlF4ZUJzYnNxVU5ONEhCbGRtSEFWN29YV2hLMGFVR3h4a0xCNWNOQXd2WTh3V3IzNVZrQzJn?oc=5",
+            "snippet": "Blinkit to open gourmet dark stores in select location in top 8 cities  BusinessLine"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit is now nearly as large as Zepto and Instamart combined - CNBC TV18",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzk5bTdvdFE0Q0J4SnFKekNiVkVfc1dlLXVpUHNyY1VwUENVWjhfY1RCSVNHQnlIYWI5SUxDOVNLQkVXTmdZNHdxWE9wLXJieHhMNDNtRVhKWXl4LU01TW1mdW9nNVZLQkhpdHVScS1kVWdvQTVHNEU0MWpWSXJRZm9kbkZ0MGg1eFhqVklEd1EwNnZTNS1obWlLMk52X0xlcUtHNmZpU3lxQTVCLXRBWXRqZmxVNWkxWXNYQUV3S0NyOXVsZWF3ZVFyQ1lqS1l2aWhzeE9OREnSAd4BQVVfeXFMUDVFb2xDdVFNVFJIbHlRQ0JSYnJ2ZGVvMDFQdDNIRzVmaTg1Zmt2Qk5YNHZWUzZldHdSSW1Fem9SN2VRMWtZWkY2bTBuS2xEVFFRZ295X1piTm5wZ3JIbVFtcEprV1drMS1Uc2dhSktBNnEyTEkwMmI2cFM4N2YxaDRxb25ubEZNbjNZcUJlNWozMUFrcnNINFFObUU2TGhRYUM5cGVXWTFQME1pT0dwZG8zTG1pRjJFZHB3c2J5cDQ5TjdpSDlha0l0eS1VWHpReFMtVEZOWDVQTlVqRnRn?oc=5",
+            "snippet": "Blinkit is now nearly as large as Zepto and Instamart combined  CNBC TV18"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Revenue Crosses Rs 20,000 Cr in Q1 as Blinkit Expands - Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTDJfX0laeFgwZjhzZXI3LVRjajBIblVQcFZEWDdXZ3hhTnVzOExscFBva2c3RnJzcWNEejI3eEhka2NoQThFcEEtbWRiYjdudS1MOHlLcWFYa3Y2UEhGMmNRYU9SejNkaWctSkJaVkI3VkJ3dVc2a2hyd1AzOXpvb0NsUHVDVjgtX2ZyMU4yR0hZYVdL?oc=5",
+            "snippet": "Eternal Revenue Crosses Rs 20,000 Cr in Q1 as Blinkit Expands  Indian Retailer"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Smartprix's New Tool Finally Lets You Price-Compare Blinkit, Zepto, and Instamart Before You Order - smartprix.com",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2JLa0VaVlB3eGIzNzFiTXF0UmxSNXpVa3Zkd1kzQm9NdzVHRkNjT1NsY3IxNmJLeWRGWkczNDR6cWV5VEFZa0VHTC11eXdrT2NCNVNpN2JWcGFaTkllYkVtSlhKSS0wcktJRUkwVkVZVzk4c3FEckRiTm9SVVlsSGNPNDB3U2JQTmZGYi1CQUM3azR1OE1CczFNVURneXJ1QUlPWXlhSXU5WjBLMWJjb0FkWWdDbWpxa3RXMW5hU09QdFVOcmlB?oc=5",
+            "snippet": "Smartprix's New Tool Finally Lets You Price-Compare Blinkit, Zepto, and Instamart Before You Order  smartprix.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Students' protest: Delhi Police asks Zomato, Blinkit, Uber, others to regulate services in restricted... - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSmMwWW9NS1l2d2Z1TVIwTXFYbk0yZU1ocVVGOW90NHp0dV9LdkN3bmFNamNXOWF6bmZwRGc3WmRfaU4xck1UOXZqTTdvdW5zR21JcWR0YjJzYWdfb0RDdGo1SU9laEQ1S0xidl9yUC1JdGZUWTVUalIzMlV0WUhENnJWb1RxYWQ0THpFYlRDOXpmWHlvRVBEaTY1TUhNcnl0cFlQLWswckdlV0xOOGczajhsMGV5SHUzX04xb0VSRmVkYm5TU0pLOG01cUlvZGVNY3dSQXZmb2dnd2ZSejRNMUUxZ9IB6AFBVV95cUxOX2x6bVRRa3d3M0NXSEZKdmV1ZElwcWlWZGpVa0RsbUtJRFViQkhLWURnVGRPOXZacnR4Y2dRZ2dSQWI0MGJrdjNrbmtWZkxuV3RtMjhUWlpOcklzSkJPVTBCck1rdWJXbEJtclcyVk91TjBPTXlpUmgzS1dZcnBFcVN3aTBhcnY1NzdpLVRrX1drYTVIUmZvMW9aYkN1dU5NZlFNNUI4WC1iWEh1TGQ5eTNvbWRpX2psY0FMblJ0VkpWMHluTFpOSWpnQ2NNVGZkSGU3ZngwVW93TGlxUWJ1X21sXzBKNTlJ?oc=5",
+            "snippet": "Students' protest: Delhi Police asks Zomato, Blinkit, Uber, others to regulate services in restricted...  Moneycontrol.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 Review: Brokerages Believe Blinkit Doesn't Need Discounting To Win — Check Hiked Target Prices - NDTV Profit",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc2J4WHVYQVZsOFhJZDdiQUlVcXVjTUFGc1FVZmVQTDdoVjN0QWt0NDJORk54TEUwLVhzUmJKRXlhRnF6MTRvSHhzaFZ4VmdPYkgyRnpNMkw3ODloZFhUWEoyYzZIV1ZNb05UQnJsejhhQjRXblMza0RJSEJpejY1QmdfRXFURzBBQm1oWXhhcF9GTDBZbDVCTmdlTE43ZnV6ZURYSENTcHZnaVZ6aU92M3NZSW9EZjY0UWZ2UGNEN0FZaWdxVnRFTnktVTZIdkUxSTZYekFSQThSY1BkUGfSAeYBQVVfeXFMUDJva2I0ZVhoUldhV0wwYnZxT1lIQzFaRzdiM1AwTGFLUlhoM0VVYUsxSFNXN1Y2UDNTZ3NwNldHUVdRWVpYdm9Yd3h5WE5DUGluYWVCcTV4OXI2Q0tRaEZsTzlOVjg1NE1zTlF3bWJZamJwVjhJbmowVktaNFU2U2Q0OFF3NjVrZmtSdXJRUWxGUUJyc2RNSmhJM2JBSTEtTHk0bVVueVdaemF1SUZtaVlhYXhlbWtsUnJqQUg4cTR3NmN2NnpEaTNkT21lc28zMTRLN25GS2lzeHgzYVc4eTV0M1lnX3c?oc=5",
+            "snippet": "Eternal Q1 Review: Brokerages Believe Blinkit Doesn't Need Discounting To Win — Check Hiked Target Prices  NDTV Profit"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Spoiled inventory costs Blinkit nearly three times its adjusted EBITDA - Entrackr",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDVvYjhyOUZVbFZUZGRPeU5CaWVaWmk2cXhnMGFLcnFzQ2RfSjBsTWpZc196SUZXRGZHRFBETnFNc1dvNmhFb19jY0R5MHhobU1Qb0dEeF9HSW5lMGc0SERrLTlwS0phcVhkeGs2UmhHdmZmdzRBa0NQNlZUZXNDRldwMEREZHRpcVQ5azJDYld3OU13TU5DYUJUSXpvNXFaV1VqdGdxUkZMVkxpYS0yUTdyc1nSAbQBQVVfeXFMT2Q1b2I4cjlGVWxWVGRkT3lOQmllWlppNnF4ZzBhS3Jxc0NkX0owbE1qWXNfeklGV0RmR0RQRE5xTXNXbzZoRW9fY2NEeTB4aG1NUG9HRHhfR0luZTBnNEhEay05cEtKYXFYZHhrNlJoR3ZmZnc0QWtDUDZWVGVzQ0ZXcDBERGR0aXFUOWsyQ2JXdzlNd01OQ2FCVEl6bzVxWldVanRncVJGTFZMaWEtMlE3cnNZ?oc=5",
+            "snippet": "Spoiled inventory costs Blinkit nearly three times its adjusted EBITDA  Entrackr"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Lower Average Order Value Threatens Blinkit’s Tier-2 Expansion - Equitypandit",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGJ1ek1tYlBOVHptUkxYTVpWYjJmZnVDSzYtM1VYS2FRd3B1T09XQ09UcUZrcWNjRGF6NjZQU256ZFF6WHlfbnVMaEIxS2x3Nlp5MURXcnlIQ25IX05IRFY5SWJxTndPamp3NGhEdW44Q0p0eWx5Z2lyb1JjMmVSQ0Nrc25VbEF0Q1lvM2M5VS1taVhEMkE?oc=5",
+            "snippet": "Lower Average Order Value Threatens Blinkit’s Tier-2 Expansion  Equitypandit"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "How IPO-Bound Zepto Stacks Up Against Quick Commerce Rivals Blinkit And Instamart - outlookbusiness.com",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV0Jtbk11c0RyLWZQcEhpaHQ3ci1EaXppaENVTXdfbEx0SEk1amtsVFMwYmIyTDVTakZvcEw5dXZCc0V1S2hBX2Z4Z1ZqMmJBMmpfakNiVno0eXF6LUlQTGViODI5bFB3T1p1MDJyQ2J4Z2tUczlvLUNhOHFETmZRNnNPSW1aR2w2R1hsLVY2Wm50WEpxUUdfZm1GQmwxSjhZckEyREFCOC12N1dMOUJqOUw4S1NreVdqYWpJS29KY3ZJeG5iTDd4QV91YkZuLTc4dkJtN3loRUM0ZFRHMUJDMHBHUVpMaTlINldTUTRObWdzNDJFRDQ00gGEAkFVX3lxTE5nMkJOQ2tpNWlpZm1kT3RvTlBtQkFFX2k1bEFqc1pVVTdWZ1l6TzlkaXprY2R2UnppWi1BUkVRSjNaanVWelFHZDl3UENzYng4bkRkZ1pCMGFmYTIxeHFkWHhkMGtDT2FkVHN0eE5zMm1CUEpIcktEczZHWHFkYTBENE1RVUUyQ2pMTUlQdDI5VDIyMHFKQzVWLUloblM2dUJMb2xfanQtODRIU054UVYwWWd6NUJhYlBtY1VWSDA4UXRsUDVUdmZGMUxfQndRRERtZmI5YWxOM3E5dEp5S0JsY0Ztamd2Vm9hOGhZVWduTmF5d1NSR2kwSHJOeUExMHViVUJS?oc=5",
+            "snippet": "How IPO-Bound Zepto Stacks Up Against Quick Commerce Rivals Blinkit And Instamart  outlookbusiness.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 FY27 Results: Net Profit Jumps 3.7X to ₹92 Crore as Blinkit Becomes Biggest Revenue Driver - India Infoline",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdDcxNDZzcF9jNE1mUVRBMUQyU0RESlNBYkM3OG1YNnpaTTEweXdibGdxN3JTb2E2UENlWUJhd3ZxQi1la0dmZEJjazFpeWx1ejJ6VUNITWZzYzZtQjhrbkJ5R2tvbThUYmRKOG9ySnlSWFNKTEZ1cGVld3Z0ZmtMaUhMa2gyWHFSVFNMSWtRZFEzM1hVdEkxeTdvME9EVUhjTHNfczRQdjFsV2lWM2VVV3VSRGNZRF9KS1ZzTFJsZVFYQnFDODRjS0FmSWFkSEtTNjBtck9XbHNkX28?oc=5",
+            "snippet": "Eternal Q1 FY27 Results: Net Profit Jumps 3.7X to ₹92 Crore as Blinkit Becomes Biggest Revenue Driver  India Infoline"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit turns profitable at operating level - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3F6Sk1Kb3dpWHBVSXlKbWp4WGVoNlE5eVVzTHljMUstbVJxSGdtUDhmMWFTMGhrTXNsbURoSnJ1THdSYWxtbDlUdjV0aF9Ld1lPbGdZNmUyTi0tdEh3S0FZOVNUNW5Kbzg5ZlpsSUFiT2owazBocGVYVUh4MTFQNUZ2NVV4RC1tTmxuWnJMUncwTzJXZUNhSjFldlhKRTVUX2VLRjZKSEZXVldtTkc1M0JpNjdxSVA5VnF3RGNOTURKZDRR0gHKAUFVX3lxTE5iUmphNGdRNTVwM0oydjhfYUc4Y0VKSXJvckdLY0VlcHVxRTJVZXVtcmRSNkNxaEQzbEFVQjZfRnY4OTJGMDhKNnFTZFJtRHBfN3RqSjg0MVlkbjBfYWVBalYwY1lvd2t4MTNhQzFhYnY3bzR0UzAyTnptQUdvZmNka2dJTlpvWFlua25RanZCSU9KelBWSmhuOTNYQzFsWjJQckx5aC13M2Q0UHJrbDJGcF8yNHFyckJQV3RGcUdkTElqVVZKT2tvWkE?oc=5",
+            "snippet": "Blinkit turns profitable at operating level  The Times of India"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 Results: Blinkit, Margins, Competition And More — 10 Things Investors Should Know - NDTV Profit",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZG4zTmVoZFpPWnFpNzlMU25WTmVteXVNZjVJalQ3UTlmUURDdUJDakc4cjUyV3N2UUE2Rk9mR1pfS2JzcV85LUp5Q2d2VjhzUFBJTzdEWndTdVU0YkxSZlBVMGE2al9DWXZsUlQwQkdGbnEyc2dJNGFxS1ZPNFFxajZYaEppZF9hWmNrZTF4ZUV1bWRmclN5QWs4MjJoY0p5SWhfX2YzT1BlMEJMLUV1SGhRa2x4TFkyeVFPZHBHUU9QSkNvcDB6VlNwWdIB0wFBVV95cUxOdEx4NXViMXFtNWhaaVZ2MUh2RWNfSUtXekdkVG1ER1VDVklBdkJGWERLY0xuQ1JoV3RpUTRFM2VaaHNUQkNEUlEwemhaak9UQXowLVhSSFlYSkFGTTNSVDMxSnNXeGN0aDZhNE4zS2ZYc2JrYkJvNE55dEU1R05DalVMVVEzb3ZXNGV6UDFXaHFTMmFlZUs3dVpNYXR0UWZmeVNrVFZMNTdycURFaWVZanRFc1REcGk1ZVJTZUc2M3ZPc3lsUmVMa2lIcll1RDBfUXVz?oc=5",
+            "snippet": "Eternal Q1 Results: Blinkit, Margins, Competition And More — 10 Things Investors Should Know  NDTV Profit"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit is coming for Amazon’s shelf - Business Today",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUEdkNGFabldveHp5YWxXbXZqTDZiMkhLNnNUQ19EdjBWdFlMV3BuN0ZUVkFkbVN2QW91ZWlwcHV3aUFaNUd4MWY2R3NwMXBIWDBQMGwyZVBlLUpjWExFeXQ0QUU4TkxWX1YxaEVTYTFzZHl2MHFNVVRNT1MtMHYwaHh5UG1YSzB5cUhKT2c3X2RMYUNrUG1qSkF1Q0XSAaIBQVVfeXFMUDlmZEFmakVtMXRTSDlCRXYydWF4NkZPU01xYXZsZExfMF9BUlFhUmdzOGlBNEMyRmFIQTMwUnJRdm5Ed1dJZl9OcXRldUlwVXkycExodHA0X19IcjRJamJDODJxaEtTS3pJUk1ZNWdIRGFqbmFRUXIyYkZBTTFTNG5lb2p4bzFiVE5UbkxtcGJYVWVXelFOeGRVOWI2NTF3X3V3?oc=5",
+            "snippet": "Blinkit is coming for Amazon’s shelf  Business Today"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit powers Eternal's Q1 growth as taxes, investments weigh on profit - livemint.com",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOenpZTE5JSkR2czhxaTREQmp6ZHVhTXVkZVVYbDREeENTank3ekVoX3o1OTk1N19RZ1lPRHRNaU1MWHVjdXJBeEhTaGFuQUZvbm0xVUxBQ3kxcU5BTjZMQjdZcnZFdFhEX2RmQkdCRXNVUl9HNUgwLXl0NWtneGtBWURqaVlFT2trSmhuekFUN1dhWjlqb2pzdGxzeEhMQVMyLW1nYlFVLXFVa3kzTUtacWxZb29PcmVjT2l4WEdHTHpQblN2bUVOOU1BRGxJTE9QZlh0RGQ4TWVZSXZ4RkFYeHNWWHpHQXhEbUlTUjZ4OEo4SWcyS2hCMTN6dzNnTXPSAYQCQVVfeXFMTVIyXzZCVzgxdDBNXzhjb2NWLXU4TzJUajYyRzhDdW1kWG9FRVZoWHNFdG1HdU9lTDBleTlqQXlNT25PemJwUjdJXzFhdUNCR1UxTDVCRl9qajJXR0MtS2lFSUJRUUhOWDkyNEppaEsyWFhWVnJ4RGxMZUZqTWVlaWlEVjRxOUZ2YWtOemMta19zSGgyczZocUkzQWtva2Q3Rzl1VjdBanEyVDlKR3IxWURDZUtmS0MzckJzNy1PMy1Pb1V4WmxtRU9SMm9VeUN5WXFSZ2ZJU1ZPZXZFdVRoUkRRYVEzazlnLVRUMHVCWjNYZ1ZlZUFDWTNRZHlCVXZkVG0yM1k?oc=5",
+            "snippet": "Blinkit powers Eternal's Q1 growth as taxes, investments weigh on profit  livemint.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Quick commerce enters a new phase as Blinkit prioritises returns over discounts - Fortune India",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNGhHSmViYUlKT2RBT0E5aFkwZDRaUVpjMTBjY3pka0c3ZUQtMkpVU3lwRjRyaXZVSm9sZWVmajM2ZWV6SllTT1FhMHNKWFVqalVqdW5XZ0xEa21WRGIxSTBmNFQzVlp2bGxkVHRvVHdGSmd2dEthb1d1ZGxJRXVZOGZ0S1VHOTVZOXRnX0FQR3VUMGVIbEVreDNZM3VYd0JtMXJtdHV5UkJXN2JRR2JLSWYxd1hOUWlUZ2hmSldlcWFJZ05WLTB3dVNPWTVQUGRzSGhaUlpR0gHWAUFVX3lxTFA0aEdKZWJhSUpPZEFPQTloWTBkNFpRWmMxMGNjemRrRzdlRC0ySlVTeXBGNHJpdlVKb2xlZWZqMzZlZXpKWVNPUWEwc0pYVWpqVWp1bldnTERrbVZEYjFJMGY0VDNWWnZsbGRUdG9Ud0ZKZ3Z0S2FvV3VkbElFdVk4ZnRLVUc5NVk5dGdfQVBHdVQwZUhsRWt4M1kzdVh3Qm0xcm10dXlSQlc3YlFHYktJZjF3WE5RaVRnaGZKV2VxYUlnTlYtMHd1U09ZNVBQZHNIaFpSWlE?oc=5",
+            "snippet": "Quick commerce enters a new phase as Blinkit prioritises returns over discounts  Fortune India"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Strong Q1 FY27 for Eternal, market share gains likely for Blinkit - Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU01YdkxHYXkzd2lKTlRnSFBNMjI1MWFONmp3M29tanZNbVZ2Q29EVi1fdzUzQjJCaHdlcTNkNjlDQmpCLUcxc1JuaF80QXJQTlNvd0xJOG43UkxxODlLOWRHNHRRQTRxbVNWS2RVOFpoY1E4VDcyaHU1UkdIdGs3TEVsMWNfR1NsUGljVHI4eEVpZmYyLWU0azN5dlFzUzhpaU0tR3FkWW5NV09LZWJmTEZGNzNPV25GQ3B5VEgtQ2RkUzhUOURjaVFn0gHPAUFVX3lxTE9NbnQtcTQ4MXIzTEdjUVhvZjQzMGJmdUZDaEpCZ1hmeUQxcVNNSWk2Zm5fTERGN2E4UmgxYjRvU1BOMWxHTHNueGQ1YThGY3IwZ3lucW1SZ2hia2ZXczlMYnpaMXl6TzNpMlhkYTRsNGh6OVRkUXBoVldkRFdVRHBLV2ZaYU5HZE9lMXh4d3NGY3U1WUstZ09aYmI0Q0NLbE91MmtzaGQyYkRPN0lhOEZ3MWp1QThlTk1aalRSMVdiV2h4d1pfT2dTZ1o4TVBLbw?oc=5",
+            "snippet": "Strong Q1 FY27 for Eternal, market share gains likely for Blinkit  Business Standard"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Jumps 4.5% As Brokerages Cheer Q1 Growth, Blinkit Margin Outlook - Inc42",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmZ2YmVjbHh0M0ctb2FQQWVyTEE0SUpQS0wzcW5kbFVkZEdvTEo3YzhMWUFuZWk5RTFNQUx3ZnQ3YjhjSXBZS09HNEN5WGlGNTgtSWY4U1R6ZXk2MHlMTmt5aXdFNDRYSHAxUUQ1VVBtczV5ZmJsMUlxTkRHNFZVbHk0ZXhybHpfSVR2MTVjVnR0WF9oNWdqRA?oc=5",
+            "snippet": "Eternal Jumps 4.5% As Brokerages Cheer Q1 Growth, Blinkit Margin Outlook  Inc42"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit says it now rivals Zepto and Instamart combined on scale, posts fifth straight quarter of profitability gains - Storyboard18",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOT3RnbVMwWUI5YlFZNUdvMjlvVmxDM2t2QWVDZmhBckljUFhrcWo0Y1RtWGptLUhOMkFRTGh5VVRBNktfek5PaV8tcllWdEVmcF92alBUNWtMSDBTU25FUDNkOWZ4MzdmZUVYeVB4TGtIQmEyS0lZX21jNUllR25YcmVZX2t3Z1ZjSXdXMmM4ajM5ZFhHYWlzRDQ4WmQ1N2IzSmJxTVdxbjA1Wk1mbEpvaGd3cU81OVVkSEwxYzZPSUtUa0pyUV9NdkZzMEF5WDZZa1lHcXBjMnoySVRvR3l5NEF2aUxpTUdCT3ZmdWYxT3ZBc2dYOUFoRVlfYW14bXV0VHfSAYcCQVVfeXFMTWVwR2IyTDd4alpZcGJMYVRfYm9pSnFCOVFoTkxaZ2Q2RDRmaGhiLWl1bXJ0LXo3dHpjb3c4Nk9adzg1M2xSUFZDV05yaVd1blV1R3E0OHJNUEVKVElLbUxkX2FYR2dtVTNNUXVFaWlwZ1ZUUlpIZEJaY2wyNXFBTkNqQlA5RlFPdThKdmMxS2hieENJQXBONjZFckZHd25yWk5vUGE4c2VDUHBvMklpbmJxb2FZUXhBSTl0OHlsUGkwYmVNdXlvMV93RHlwT3pJN0Z6T2NzaUgzNDRWeWxkV3lRaWxaOGV5eGR6Zl9FSlh4NFdxdEdOcGRRclpkaXN2YTVfaVNNeW8?oc=5",
+            "snippet": "Blinkit says it now rivals Zepto and Instamart combined on scale, posts fifth straight quarter of profitability gains  Storyboard18"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Jantar Mantar now a delivery address: From biscuits to bandages, Swiggy, Zomato, Blinkit, Zepto rush order - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVmo0YVZWN1Y3aWljd3B3NlpfZUZ1OWNZZmtCM2thV3VrWDc2RTljWThGRFZOcUllZDI3aDJhSTAybm9QRTFYUndNSUE0S05temNtSVhEMHRqY2Zwb3RoR3B5dUJnVmhfUmRiWWd5WXR3Y0FlX3J2MDJhcEFNdlB1MjVUSTNPMzB0MmpMSXVvNFNZZFVUaEtoc0E1aGI3eG84MEFZZUdLV0p3Tnp3Z21yLTA4LWs2N0Q1NW83dUtfZUprdDhyZ0FBRkxiMUtGTE1fYjIzcm1aZWNOS1RxYVBTZ3duNTFRSjdFaE1uaGJ1LWE0ODRoZzhyUTduc1E3WEVaRWRpbndrYk1ubHJhM2JOX9IBlgJBVV95cUxPZDlQYnRESl9hbk9FanhiQXNkWGVFUHlrbWszU0t2MWpXOGpfUlJEcWQwRW1NczBodnc4ZTBQQUdKSHBrRWxEYmk1M1NnSUhXWWQ2aTdpTy00LWNWWUt3dEgwWk82WTY1QWRMaW9YVmhlamNwUkNpa1RJaXc1a0ItOHpRdkNBdTgtcUhrSklacUgwZWZ1REJfaEpaSExBQmxJcVVRb1R1NTZSM1hsS1NUa2g3eWtTeS1wSmRHajFueXdhUHc2QVoxR2k3UEdKdC1zLVFtdjM2Zk1WbnllV2dwREN4TzJnWElDVHVyOWxsZXhEZG53RzRyTmQ5X2I1MmltU0xSMHFYeFJSNkg4R1dmNTJuZjZLQQ?oc=5",
+            "snippet": "Jantar Mantar now a delivery address: From biscuits to bandages, Swiggy, Zomato, Blinkit, Zepto rush order  The Economic Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit Widens Q-Commerce Lead, Matches Rivals Zepto and Instamart Combined in Scale - outlookbusiness.com",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkVaNW5wWnlpdW1oQlE4UXUtSVFUUUp0dDZTaHVkbFhuZWJqdVM3aVZUUWZTdUxLT1NHbGdiemhQdEQtWUlJcTF4ZWxvemNIUXE1UGgtQlZGZ05NQzEtel9VOHR5ZWNDQ0QwdFJaajlvYnVROFl4UHhxTTB5Y2pDWWNRZC1PMHlLd2xTRnY0eG9vQkZUMklBS2FNRDFBZWdEX2dBTFp6Mk9Od082ZW1USEQ1djdORWpIc25XcHhYV205aThZYmZzT9IB1gFBVV95cUxNYk9KUnZUdmZ5MnlXUk5PbFI0b3lfZEhKSk8xZGlSVjVKSUVpbUtJNGxNUUxWb2ZyY1hSNHhZR2RiMWRpN2lLSktVcjEtRzhFcXlEWG9aV3prbkdrcHc1UjRJRURPSjR1QVMyekx5WmtuSFFoQTNmdDBNYVBnaXZiOFNOQ1RYMVRqVENscUJuSi0yS3RmeXRLaXNmeE5QTTJoNHZINjdOVkFtX0xjRnR4TVFkc0RVTnJwa3hpRmsxYmRKNkFQZnFwTHdPWXgxVmtCVGwyaVpB?oc=5",
+            "snippet": "Blinkit Widens Q-Commerce Lead, Matches Rivals Zepto and Instamart Combined in Scale  outlookbusiness.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 Results: Blinkit operating profit crosses ₹100 crore, Food delivery NOV up 20% - CNBC TV18",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMXJIWVJTSU90WXVUdnFPM3VmM0xmdGgzQk93WFphd3FUSnphMEhPNDRBR29SaWxNSG9YMllsOFRZVkhqcUZGZ3ZLOE1MSGpuZXY1WC1NUkloUXdjZ1B1Z2F5N19PcjJ6QmZTb1dlbFNzeE04Uk54MktXemZTY1R0YU5Mc2M3eWRsNGJNY3lIWFhZQktNRDZJZnJSLTVJVEFzdy1RakZQZVVEYTBqMXk3UnNoWnM0NGxOSnQ2MjdYR1h3TnF3a1lF0gHMAUFVX3lxTE93VVl4S200aGl6aThGMTlxSlZMemI5d0pwN0FsN0gtUHhMQXJnYV9xYThjVnRnVFF1UGUxdElXVi1JN0hsSVlpZFBXTGxFU2ozTGZOdG9RSUk4NExoRE4yZzdsVkRnRlZzY1JJc3FwMUM2MFdsWFJnNXI5czVDYVFpLUtnYndkd2hHNi1PYi1jOVAyNFRucFU2REd1cURDS2ZkcTNZV3RMdjIwc2JVVGI2ZnFNTEV2Q281VlN1VEhfV2NZUUVvU09LRHAtcA?oc=5",
+            "snippet": "Eternal Q1 Results: Blinkit operating profit crosses ₹100 crore, Food delivery NOV up 20%  CNBC TV18"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal's Q1 net profit nearly quadruples to Rs 92 crore, driven by Zomato and Blinkit's strong performance - Rediff",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE15OWx1aXBUQ2R2VEhCZjFUMVNlc0lWZ0RxWTgzSm9hb19zQ2dpTlp0cG13RUZmdGd0RElqMFdXVWdmdmt2TTUyNzZrNVhESVVxa1doQmM4UzIxeDdqSUNaRmlSeXIwVzZ1bnBESEt3T2Yxejh4cEhUbENLYWhoaVNvUlVFZzN2RHZFbllibVVwNmNuUk5hMXhlUTZ0NFZYVUlQUXRUMHQwYnhRb1hMV1FZMTExenYxeGJoUE0zYXZ2YzR5c3FzbjRDSXdkd9IB0AFBVV95cUxNVm1VQ05DX2w2X3BpV0VoVE5idFlHa1FwRWVQeUh6UXpaQjB2c3JqcFdwWHlVek9FcVdQU3R1RngyaVdIUjNEYi1qQk9vM1lFRzhlalhwdXBBQ3ZoQ1lZVVQ1eU1WcVItYTNaYUF3WHZRcXBRNTJ3OHdlMG56cXdGcGVwWHNHczNKOEtqcGFpSE1PSG94LXZLMDlFSUNoZVlvOGg2MFhFc0JxVzFtTGVEcEppelNieVZoMEt5Mk4tNjZrM041eXJxUHBOSjNZQzVp?oc=5",
+            "snippet": "Eternal's Q1 net profit nearly quadruples to Rs 92 crore, driven by Zomato and Blinkit's strong performance  Rediff"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 FY27 Revenue Hits ₹20,211 Cr; Blinkit Turns Profitable for First Time - NiftyTrader",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeUdYRjhsbEpjNU04Qk9mTTRhR0ZLOHNsaFJsaWJ2V3BQTFQ5YUJhY2ZNeVNsOUxQRWoxdWw3OUNzRUtDdDNyMnl3NHVwZUpRSUI2OEJpeGN5NjJzQWlFNi1FZ1F6dFN2c0tJLTNZSnYyWGJibEcxTHE5VndwYjhsZ2dkNXU?oc=5",
+            "snippet": "Eternal Q1 FY27 Revenue Hits ₹20,211 Cr; Blinkit Turns Profitable for First Time  NiftyTrader"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit Loses Rs 308 Cr to Inventory, Earns Rs 102 Cr Profit - Apparel Resources",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHRvLVcwQ2xra19KbDg4bHZrV2NJbmc2SU9MQXdXZUl3TGw5SGNWV3FTS3NuVlNtamRfVDk1SmotWlpjV1FPRy1yc3hzVEpwZS1Gd0dueEVUeEJDM3phOFRYODZJMEJMeUV3eHlwOXBYRzdRaEs0TnFXbzdPVGlGRWx5NUpJdkZDVjNBSFJuZ1JidnlCVERaMHMzNmlCcVZDNk1FWU1KNmd0NVU?oc=5",
+            "snippet": "Blinkit Loses Rs 308 Cr to Inventory, Earns Rs 102 Cr Profit  Apparel Resources"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit outpaces Zepto, Swiggy on orders and profitability: Eternal - Indian Television Dot Com",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlFJbkNZazVCSmE2RHdGeENDbXItMUtEXzJQNG9uV2x2VHhqaUNOU044anU0VnhOOWdHakFHdDVhbVkySEtGdnY4a1hhRkU3QTZscERVbkdtU2xRM3NETHVrN0FYanFiRVRuejFxOG1uTVl6Z2JQeW91UUE5eGdaT0kwenFWQ1RQdjhCMDdPa21CYmpVSlJEbWtzWUdvMElG?oc=5",
+            "snippet": "Blinkit outpaces Zepto, Swiggy on orders and profitability: Eternal  Indian Television Dot Com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Row over Meghalaya tribal council’s Blinkit entry ban - The Hindu",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWR0T01xV29jQ2pPdng2bnZRNkJ6am5VdlhDWGhmczZRVm56ODhuRWpSQ2NaMEhvSkNpdF9ZR29KU204UVVyTm55bzJYTEtmVS1uTGV5MVhyOGJteDNHWGtMQ2xMMDNtb3FZcUJKNXNzSTdpMmxSM2IzTjktWE5yQjU3LVJLekg3LXNLTVdiUjlzb0QwRThTaGVLRHh4RDkwZXZBX3ZrR0NwYjVpUnZSR2hiSElsSXhEOEpuV0V30gHEAUFVX3lxTFBXSy1KV1g0TUJ1Z0ZEMUVRY2Yzdmd0UEllR0kxczRoOWpha0lTRWo5S2E3U2ZtWmtHbkhZUGphN0YyV3UwOUNzaURMemdXU0NVeWI5NkNxOVo0ZDV5TFVWRHBvSWFta3NNSmFlLWstY08wN2VmUVZKX2pwT1BaWXB3SXZEblR6YkZDc2c2RlZjX2tMV1BSVERnakxWR1VCQVNVRURVUXBZZVZjNkZrSTNqUlRWdXRRdnBNMzcwUXRhZ1NfS1A?oc=5",
+            "snippet": "Row over Meghalaya tribal council’s Blinkit entry ban  The Hindu"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 profit jumps fourfold to ₹92 crore on Blinkit strength - Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU3JtOEJYelFfQndNcTI0d3pESF9fQVoxYlZFenJ1cnFYaUpuMHpBbTZrMlNmUTc5ZC1CbXJvVXJzTTVrQ1VzaDV5MVp1TE5JTWJOc1JzS2NwZFJpUHczWlpuWW1zc0pkVVhOQVlvUGlVaE5CS25YNnYyRWVNTFRrajE1LVpJUmRxTFpkWm4xc1ZqcXFUVnlXUllkcE1EanJLSEF2T2xVWTlOT09GZ0YxdGVna3ZHNFltcVBrLXphNmMyaExFUWdXZjg0TjdxWGpQbENYUk5lb0JtRzY3bHk2LXg1UFlBOXPSAewBQVVfeXFMTWhlOGNSQWxadHpoQ2dwQkZoU0RNQVF3NVR2SWxaV2ZLa1ZJYl9xdE1NcTFBN3habWVBT1JWNDFoeUNSZTZlZUpjY25RbEtVeU9nX3dEYjEwbUF4SnI1dkVTZlA5N1AxbzQ0OTg1amdLTGFMT1JFVW9qQlZaX1lfRjdKYi1pVUV4MTFLNXpWZlN1M1dxT2dPMXRWSWNmYUZkSjl5VWFuY0lycFdqSnFHWlRxd1duV0RBQnBfSjBpMVpqc01hTENMNEZIRzdvUm5EN1M4blk0WEdDQmhIaWFyRTY2WlBJTU9RT3BpZGg?oc=5",
+            "snippet": "Eternal Q1 profit jumps fourfold to ₹92 crore on Blinkit strength  Business Standard"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit revenue surges 552% to Rs 15,664 crore; Adds 200 dark stores in Q1 FY27 - Storyboard18",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU19Xb3VnNEFxNGVoSnFjWWx5dS0xdXpWTXFaV3dTODNsaXBHX0sxbFJ0M2lOX2NZbmloS1JNNWdiMVV4NFEzYWUyemVRNkZ3MEhsWjh6YmJPT1hJa1ZzSlBIZ1JJRklCeHhzQ0dFbnZrSXZsSkRtbUtuVzM1Y1RwV1BETXFUQXBfaHFsZ0N1M2VJSmpZYWJIZVZhQ3dpOFN3d0FhWEpqZzB3VENDR2w5VWRzRllwc1phZXfSAb8BQVVfeXFMTWt6QURjNjQ2eWZIYW45Y2dZZDlMX19SYWdNUVBhd2sycUdxNkJjTzFXaWpDVW5BaVFUaG5telJVel91T2syMjhKV3NPM1dFcHlVYW05bm9EZVJ2QXV0cmpvQ3ZuTUI2RHRrWEctV1RWbXF2NmhZVHpsOUJQV0FGMHpwdjlrZGJCWFJ3RkJmN1h4TnRpT09LSlJ3VkZzQngyMTctRU4wNnJ0aHQyRmQ1Vk8tTDBLUzdFSXJZdmFqRms?oc=5",
+            "snippet": "Blinkit revenue surges 552% to Rs 15,664 crore; Adds 200 dark stores in Q1 FY27  Storyboard18"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit Pulls Ahead As Quick Commerce Race Enters Profitability Phase - APAC Media",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFJKUVdscngyNjBzcHhHb0d3dmZuRzR2a3U4aktobW54Sml1eU1rTnJiVnQyY1JiWDgzRWJCMGtTQ2pfOWRLX2JqV1k5WUkySzd3elJTU25NYzFyVVR2dmwtRE94VzliWm55N3Q2RWlPY1AzQ3MtY1k0SUdhNzV0NllJWHFTODBpMW41VVJiYkhpbUlLck9yYmFsbVZIR3ZWT3hwZGcwcS04QQ?oc=5",
+            "snippet": "Blinkit Pulls Ahead As Quick Commerce Race Enters Profitability Phase  APAC Media"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit Q1FY27: 36 lakh daily orders, AOV slips to Rs 518, dark store count at over 2,400 - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb2FDaGxxMFZVM2U4cUhvTDFsTDE1N1dVLTZNQ0RraDQyUzNHRnBPX3pIMFhVZVk5dmpyNVZYTEtUMGEySW5jbE9qUEdvaVVQRjdhbzQ2X0Q4S0VLZWlnQ2o2eEJPMndrLUtmeFFBR3cxM1F0ZTdpeGFTY2tNdTN4anVMUzJZbzZWdllPY0ZwUTNhSVlZZDVrQ202OW84clJvSkdZR2N3OUFxNGhIZDJGcWNaLWNBeWVCOXlMdmZHcEtWUEQ3dGlvUC01ZkkwZTBpdWx6U25LeDlKN0hwT3FpcVRKelZPQkXSAewBQVVfeXFMTy05M0dZZVRKcENaXzh6V0MwajRCd2V3S1pUMExpSkp0T09TX3NrRUNZUkVLZjFYNXZyOENadW9BNERTOEFxQXdLZlpFMkJwR3kzRnNSZGk2RkkzZHVZOGRmNHl0OWJEN3lHQlhVT2xacU9qNkt1a1U2QS1xWnNmZWhCOEFtcEZzNHZLeXQtaDNRY3RfdG5IbTFncUJZeVdpU0o5RTFyQTR0N1dQeDVBTGFMMHFmTmE5blhQNzk2V3RZeXF5RXZMVWRjVS1BWVlTY2tid0M1WFZDNGpGRlhCdFlPTkxzbTB5Z1BYSFo?oc=5",
+            "snippet": "Blinkit Q1FY27: 36 lakh daily orders, AOV slips to Rs 518, dark store count at over 2,400  Moneycontrol.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit’s Q1 Adjusted EBITDA Rises To ₹102 Cr; ‘Others’ Losses Rise On Nugget R&D - Inc42",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0V5dU5WbUY2X2NzM0xnZHBJd1dpTFBhUmhveTNOQktvSDluMGpPVmNRYWhEYUxDNTlhTTF5WjhqV1dmNnF1dmpHaGVlcHh3YUx0dEthRWZFcVV2Z1Nla0J1aVgtM0k1T1BVRkdnR0kwOUVnVTk5eHpjZlJQZW9iYXUxejZYdDlob3UzWkV1bHRuMS1HNVBjM1NSMTEtcDJaaGNJb1JzdHlvMXhk?oc=5",
+            "snippet": "Blinkit’s Q1 Adjusted EBITDA Rises To ₹102 Cr; ‘Others’ Losses Rise On Nugget R&D  Inc42"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal’s Q1 net profit jumps 4x YoY on rising Blinkit profitability - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcS11akczYzZRcFZySGNzdS1fUEtyQnpydnBRNlZINGRMaE0yNHhFdi1NUkFZQlJpblFaRzZjS1REc2ZBMFpJNVdETWItTERIUXMydTEtalRLeUNKUkNDX2dEckZGMGlpYVFSc1hqZVdxNzZMQWhKaUlqWkZtREV3MGtXdVVsdTB2U2ZCOWFVWksybmd6NEdYR3JReGNMNm1fSVFlLW44MGNZTHRLUUVSR05PVFVpTDdmNmp3TmowSF8wOTQ3VmY5eXVtSFN5b0d3eHpv0gHYAUFVX3lxTE9FLWJwUDQtc21UY0JES09pYVV5Yzhtd3hHTVJXNm51SllFNUM2UmZmOVZhRXNqRHU5TzFkejhxZFE5TGgta04tYVRaTFR6VjRpNEh0c1FFY2c4WE5LUUN2N2RoVmlpOElqWnlPRTBUYUJzbXk5WWdhaENWMElGOFl4TFlHWklVMGpfNVRSR0JvVG52bGtJYkFodkhlVVQ4c0pnZi1ldVh4VVFUX0J3LW9vUDNHUHBqaWowS2syS29IMkVNbGdwcEhFbS1CWk81a0RDWGpQdk93ag?oc=5",
+            "snippet": "Eternal’s Q1 net profit jumps 4x YoY on rising Blinkit profitability  The Economic Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Shares Jump 3% After Q1 Profit Surges 260%; Blinkit Turns Profitable - NDTV Profit",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDhwNG1qeUU0TndYem42MkdLOEE1WFNpb3BRZTRsZjNVVFphd0QtQ0ZOQjFIZEpXWkFYdHBlVkJZdHEzTlhvOWJqSFpTRElUdWR0VmlzczNaaDlYelZ2T25CT3A2ZGNLcGFqdEZzTFhuNHlhaTN4cnBjVVdnM09PS3B2Sl9EeERuWk15ZVVRUURORDhNNGNuU05nWkVZWDFFZDdCaFZEM3VrMm85dDZacU1KM1FRd2NT0gHAAUFVX3lxTE9HRXhhdWc4bm03MENUNV9iOWdKMVhoLTFJSUtRekNOdW8yd2dGSFhjTlFRR1E2UzlmT2tXVTNHcGxsLUV5WVl4aDlHQlFaN3p1M1QyRzYxeFpHNEpGUmRJUURMQzFHV0NFLUdoS2VTWDY1Yk5zTkVSSXhZOFpEZ2xaXzdyR0FwSlVybE1jWUhwWGVNbl9RV3luaDU4Y1pFTnBHQzVHUVAzcWdQTmQ4Mzl2TXRJbS1XRmY2MlVLSzAxYg?oc=5",
+            "snippet": "Eternal Shares Jump 3% After Q1 Profit Surges 260%; Blinkit Turns Profitable  NDTV Profit"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Video | Blinkit, Swiggy, Zomato: How Citizens Are Keeping The Student Protest Alive - NDTV",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHFrX0NXZlFKTG9qSER3dzBwdEVDMHdkQm9DaEJ3MDh4TEF6OGNjVVpRZktrOHNjNll2R0FqVzZIS0tERVg4a3EtLTdEcEJGdjc5UmJIUzNuRWN4VFh1RHVXSkxyWEdrbXNnN291aThUeTZXVmtmd2hXd0dZT2xUX1NGQVFUbG5xeGJTMEowREt6REJKRVpfbmwyWXp5YU1XdHVKRHpjYjhWaE0?oc=5",
+            "snippet": "Video | Blinkit, Swiggy, Zomato: How Citizens Are Keeping The Student Protest Alive  NDTV"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Watch: Woman orders protest posters via Blinkit, X user calls it 'the new age protest' - livemint.com",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaXRmdnBxcUhNTDJUNWxXbGM5Wm9keEVFMGdaQjhjcmJYbGtOdk81NDN3WjlMUVR2d0dZNmUyR3VZVEU2OGJPQjdRWnFwNnh5U2tKanBwQW1MVFk1QXZPU19pNWZwVjFkRXp2cXlhTWpuT2N2U0FSY3Jjc3c0Zk45ai1lSnNjRVZ1cmllaExtVm5zbFI0cnJONGFmM0pVSmxkLWxJZ2FPTUJUVV9qLU9taGdCdlRsM1V0WURFVXM3OVJXNHRjYVA1TjNmUFhRSV9iYlpJUU130gHbAUFVX3lxTFBNT0Q4MFg1NnZWRHhJMHBwbG1wYTJpMVlZQlNSazBmMmZQbVNHNlM3b3NUMTZDWDROcVZrR1VxdmRvM0hpM19YOE94dS0xbGJyUkNMNndJNWMwUXl0Zkl3Z2c5UDQ5R0xSdFZISU9hbjhOd1NaQ25Db0VBU2FHQlZvTld1clZxaE5nNHdWclBmc0pneGNtdGJzN2pTSUltN2tqLUFPdklsRjg0Z0VBNTlrTnJTQm5TUmNWcUFpdlNFZ3Jrb2FPRFVGSnZtbjgxWFcwR2hPZXU3SzNfYw?oc=5",
+            "snippet": "Watch: Woman orders protest posters via Blinkit, X user calls it 'the new age protest'  livemint.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal shares: 75% upside? Zomato, Blinkit parent gets 27 'Buy' calls post Q1 results - Business Today",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFhTTDJGTS1CdHRORlVCUEpHZVMycEdHNFEwRkFtOUpRMENlYmNwbnBodV9IaVNremF0aWtxekRyeU5kNEN3VEQ3amczU3RzdlVPZDN1NGw0cERjWVdhdUduVVhjbGtFOG9LZFNQTUg5MFZXR2QwcFBfTHZha3hleS1KLW9MWnR2eVB2YjBRWkJjbU0xdU96ZllhYzRvVkpIZ3JVV19rZHAweU5aNW9ialN5dTlZeTV1UVduSi1oSXdkbW5WaTM4Z1ZGNXk1Y0xEcFdUaE43U01iM05NTmdtOWpB0gHnAUFVX3lxTE9TQnVLOEEzeVBEcGRHSzJlZ1RBUHhzUDA1Nk9nd3hHSHdNbWgzS0dsUDFSaXNhTGgzLTBqNVpZLTFGNF90Q2EtRUVTa1Fub1JzTnc5emNxZnkyTERaMWl5a2hMS1VKenhXUlluYTE3ak5TRGFvNk9LWDUxWkU4c1p0eG4yaVYwX0Y2Njd1VmZEYzJiYmhIN0l6cVJ3bkZPLVVqajdicjZnNzRYb3FwejJrZ2JEdXlDX2ZNRzZ0S3NUUXpLRnFZMDlKUEtKMnlyM056ZXlpNVNGeWh1WTIxZXM2NmNIaWplMA?oc=5",
+            "snippet": "Eternal shares: 75% upside? Zomato, Blinkit parent gets 27 'Buy' calls post Q1 results  Business Today"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit rider’s tip refusal teaches viral workplace lesson - MSN",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONGZHSmdOQ2ZvNzNDaS0wYnZ2Rkdnc1U0ZHFOUkEtVG5VWEd0TmdadGNGSE4xd1ZMVHNWeU9xRnZVTkpLenlNMmhMS1Y3RndXY2s2c1o1b29weW41RE5QejJyQW9kaFZsRVktZk5pYW9yU3BBSGRxNkF0VXFENzR1MTlXanVkUFBMRWxqRlBCZkR2b2ttOEVxQmhFS1JjdlVmaTBha2RITkR5MTAxSE80TDE0Ny1saW5sXzNuYTlySmVJYTEzaFBJSGZVbFdxci1WdE10YnlYNDVfc2NQLUFuUDh3?oc=5",
+            "snippet": "Blinkit rider’s tip refusal teaches viral workplace lesson  MSN"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit rider’s tip refusal sparks lesson on work incentives - MSN",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZmMtOU9kX1dZam1EV3J5SmF2Y0tnWGxEQ0VsTU03bmdITFdDZF8tWW1Nd2tnQ1hXM1lOODRxaDhfaGs3SWpfZnEtcFhwX25OQUZPaU5vMGdMWWx0UlZIcmRkRW9zUFdCMGpJSFgyTTB4OS1CU0QyV3ZJZFdPZUJPdFA5c0dvTlhvendnSWM1dHo3bGt4cHh0bUgxVjQ2dGRmYU5PbGNfZ3FyZXprRXRBeV9kWGZQOGxienVsc0duSVNxRkNyN0hyTlctaGpOSnFDUl9aSjZjNHIwVGZNZ2d2WWlvY3FrU1ZTNjBEaklhZElZcDlH?oc=5",
+            "snippet": "Blinkit rider’s tip refusal sparks lesson on work incentives  MSN"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Why are Blinkit, Rapido and other app services facing disruptions in Hyderabad? - NewsMeter",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3lNcFNOck51azdramVXd2RLNnVIVHZLZkhCcV9XdzBZZnUwTnM1MTRJaC1Yc2pjLVFDNVdCNTRGVGpjQjYwWFQyMlU2Tld5a1E1ZzF0TExDOVp1dThOT2k2dVpWTDRKUTFsZl9aaEU4bU9ZakZWRTZ6MjJvSVBXTXlId1NuQll5eHh0bDhZQ2dtZk4tTXlVSk0yZExhaWJUUWN2ZXNhMjItT1RMLXREYmh3S1paZw?oc=5",
+            "snippet": "Why are Blinkit, Rapido and other app services facing disruptions in Hyderabad?  NewsMeter"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit logs Rs 102 crore operating profit in Q1; sees more predictable competitive landscape - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMTlyMkc4ZUctN0o4OUJSa0Ztb3h3QXFkbTVPVktyNXVveHpEV1hkU0xPcnJndFJaQzhHdFg0ZnJTcXprOGFoMDNpcF9jcmhNaklCQlF2bDNwekt3M2pZSWxfeXFyVHdIOU90cWY5Z0VmRDN6Zm96SjhJZzFnLU5aZ1plYUttSE1md1VsX3V0ZFBCZi11S2dadndQdjFSSDcyNUs5NXJDMlpxYUNRSG4xSWc3V0tLejlEb1p0VFp5dUtaMUdzSi1FUkhSYVpvcmZtMXNSeUZTcXNjd3JSYVZwMDZzTG84dVR5N09uTDZaN05wT2V50gH6AUFVX3lxTE05RlltbEg0ZElIZFRYTzUwTEtJRENIazZmN2lkclR5Nk5QcXp6RHg5WkoxS2dDMWhYTjMwX05FSUJ0THNrTWRxSjBfampSSXAxT091VVBaSEhENlkxbGVObGM1aW12aVgwM3Q1TmljbElwYzViMU9URFlROU96Sks2U3lQMmRlRDQxZWd2MzktSDBsT2c5YXppTWY0SXNKcFd3bzBxbFV1T2dVTGEwMUxhVUhXdXhCaXVZRWdua2xhbnd6c0gxQWx4OVFCS2pla05TSTh4dUNFSmtOWGVRRUYzRTlyTHVUaXZRSmpDNEZBd0RMU0lBN0pqakE?oc=5",
+            "snippet": "Blinkit logs Rs 102 crore operating profit in Q1; sees more predictable competitive landscape  The Economic Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 revenue jumps 182 per cent as Blinkit drives growth - Indian Television Dot Com",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUxyaWoyV21DejFJcm5MLUpydzF1a3c2U0hqZHdPay1GVmZIelVQcGVjZGxxS2dHdW5JWVp1NU90VUFkb0ZfQkIwSDFnUnV6SnVDbzJmdU5sN2VwUGNtNlJ6NU1RTE4ta0FUbGloTHR1a3pyMk82cE5DYVlLZzNCSjNKbEcwWVVTWW5IQXBVQTloQUEzczNPcENMRUg?oc=5",
+            "snippet": "Eternal Q1 revenue jumps 182 per cent as Blinkit drives growth  Indian Television Dot Com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit rider refuses ₹100 tip, values rating boost instead - MSN",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS2VCOUZpY3VMcWtZUTFmcFRDeW4wMTVJTDM1M0lDY0oxSGg5NWZhVkhYeTNRc1J3eVhBYnE0c0draDMtLTZIbUx6MWd1ME9yNGtsZHNmVjFMOUk2MGozbXZ3NFIyY3Q3b2I5eWQ0NE9SVXZoVWlldlpfOG44RVczUF9pa042MjFzVm9jMXdIWW04SjYweXItcVFNVUhVY3YyLXgyLWlVRzBWTzdiMEJnaG9nbDR0WjV3aUtDMTdjQUczTHE1WGlqMGpsNFAxaWREOVBxNEZLYUlUU3RsLUhnY3JWNDdhUV9yUnBqZlRfVGM?oc=5",
+            "snippet": "Blinkit rider refuses ₹100 tip, values rating boost instead  MSN"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Delhi Police Issues Advisory Asking Uber, BlinkIt, Zomato, Others To 'Regulate Operations' Near Jantar Mant - News18",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ3dJdXItQWhkVkpfbzIzc1dNaWk1NEF5VFF1QVhVLWxYZ3o2YWtWUHRPQnctYzI5c3lhckxtM0h5WmtPOEVRa21XR2NwaVdfSHZObFZrZ1FZc3kyTXNoM2F1a3dXQ252ajFhb1FEb0dFQTR6M0VEMV92SDdUSXU1eG4wV1ZMd05DY1BTOV9ib0JuNk5tdnJ2VzlfbE9STjBQQjkzNlN1Q3JtUHlDcUFWZlVlaXNydXpuX1hPZnZzZ2tldHZOU0FQemFMTU8xQnZyc1QyQjU3VjRzQkZwVDYxMklkRUxoR0hFeFdXUtIB7AFBVV95cUxNZ3dJdXItQWhkVkpfbzIzc1dNaWk1NEF5VFF1QVhVLWxYZ3o2YWtWUHRPQnctYzI5c3lhckxtM0h5WmtPOEVRa21XR2NwaVdfSHZObFZrZ1FZc3kyTXNoM2F1a3dXQ252ajFhb1FEb0dFQTR6M0VEMV92SDdUSXU1eG4wV1ZMd05DY1BTOV9ib0JuNk5tdnJ2VzlfbE9STjBQQjkzNlN1Q3JtUHlDcUFWZlVlaXNydXpuX1hPZnZzZ2tldHZOU0FQemFMTU8xQnZyc1QyQjU3VjRzQkZwVDYxMklkRUxoR0hFeFdXUg?oc=5",
+            "snippet": "Delhi Police Issues Advisory Asking Uber, BlinkIt, Zomato, Others To 'Regulate Operations' Near Jantar Mant  News18"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit Lifts Eternal’s Q1 Performance, Profit Surges 268% YoY - BW Businessworld",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLS1KT2hnb2RqdDVhWW1zZllQVHRaT1dvYWJDUWMtamhhaWhEbTlySmZLVUZKX2RJdE9nc0pka05aQTc4a29BYUtsU0lfVjNDb2pYZmRGRi0tQ3M5SklnYzNXaWJWWnVaWml3ZmQ4VHJPd1pJWUdpVTduZXpQZGVtZjFfU09kZUpZTXpPMGpkdWNXeXNRZzNCV1FZUHQ1Vjd3UVBVbkFEbw?oc=5",
+            "snippet": "Blinkit Lifts Eternal’s Q1 Performance, Profit Surges 268% YoY  BW Businessworld"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Video: Customer Complains Blinkit Delivered 'Fake' High-Protein Paneer, Company Responds - NDTV Food",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaXhkb2RHMlFiWFF2Tm50b0xwMVZMdjRjLW9wM2ZTT0JLQkY1ZTN0MS1JQUZraWl2SkFpRWZiNmd6V3JnTk5WMHJrSGlIX1pEWWtQTG9LT3Q0RzRoNkdkZ29kUDNnOEtWWjA2MDZxa0ktazZURS1oaHdldDgyRmNvOEFHR2E5bzNQTlhCT0JHd29TWnFCZWJKaVM3UjVWT1B2ODd1UXB3WU1qa0nSAbMBQVVfeXFMTTB6Q0E2TTB3TzN3TGJBOUZvUzc5NklmcDc3VWxNdXc0djRmT2pWc190QklUdl9SbnE2RzVKYUlPQ0szdUtuZjdJX0NNLXdXRTY0N1k1SDc2dF9rY25yeDA4cDZQdDFod19iYV9nLUU5LWc3SDl0My11bno1RUpURFQwRWtmNGJmTmlXY3EwMjk0RXZTc1liUFp1Y2NYQXppTUtvTUJYeVJuNXBZUnN6UlFHUnc?oc=5",
+            "snippet": "Video: Customer Complains Blinkit Delivered 'Fake' High-Protein Paneer, Company Responds  NDTV Food"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal stock rating: Brokerages bullish, eye Blinkit profitability, food delivery growth; check target prices - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNGxtV0l4LUFoWGhlNHE1WVFjSm9INU8yUF94T0ttSTU0N21rajhXOVBYX1BlRGZlLVJuWWpmR1R0UC1HVHdkWFB1RTBZU2pmNF84Nlo0ZXlxdUxUUy1KNFF1a2RXZXdQNlBaQ1VnWjZpOUN1Q0cydTRsdG1jdEZkT0Y3a2t0WHgxc1pHd0FEcmFYWkYyWFljcjBEUkRnUmVqOWZiWDVpVWIwU3o2OVhNbFNPTGt2MFhXMkxobVF6NzVBOFVhSlNaNG5CY0RFN3Q2WWRkQl9xTFcxRFVJdGtNWjlPYlU2OUs2aWZHN3UyUWhfamd2VUNXOERRMWMyZw?oc=5",
+            "snippet": "Eternal stock rating: Brokerages bullish, eye Blinkit profitability, food delivery growth; check target prices  TradingView"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Customer Alleges Blinkit Delivered 'Fake' High-Protein Paneer, Company Denies Claim - NDTV Food",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUnFkQkJRa3d6eXE3REhMZF91UXQ1SW9hUi1ENHJtUXBubVdKOEdrenY0eTQxcEZ5OEpCRkhKTVRKWTNVT0xYWHJIUjBMRHNsWXlmcmYxdkpXVXZhMWxSVVE4ME0zLXhJR1RYUEtSTGotYmF6aE9faHZhbERmUjdKZUwwc2VTaDM5aWtwVnlpLVE3Skp5ZXIya3QtOEhEbDNQT3MwSzJaSlNyeUNnMnBxZXhjYXdHc0nSAb8BQVVfeXFMTWZ6amszZ3B6aFV1OVFqNDZuRWVrRDhIanRMb1gzNzR6ZkxveTZuSV9PM1ZVb1RmeHJwYTVUU3ZfcFpzQ1preGhzZHlnZ3dRbGoyTEJpLVFUb0x3eHhCdTUtaE1IMHRUbmliTGIwZFVaZndXZEpfVGlOVzF1TGF4LUVaZDROdDEtR3hSVk03cy1QajBiRUNhd2Z3Q1lRMkJQRXYwMXNKTzF3RHdtTEtiX0dSMFdGZ3VMWE95dDRHRnM?oc=5",
+            "snippet": "Customer Alleges Blinkit Delivered 'Fake' High-Protein Paneer, Company Denies Claim  NDTV Food"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit Rider's Heartfelt Thank-You After Rs 500 Tip Melts Hearts, Video Hits 13 Million Views - NDTV",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1VnYVlPQkw1TjV2RlNTQ2hPblFKZEpnRG44SzZKdTB0MHpwelhsR2ZFUkRRb3l4d21OSzJmVERlSW1xbUNBQ0hqSGRlZFlTdElMM2JTdnZmUW9wRW01VkZpRkxXSEQ1SC1uVjRlMW9HVFdtaVF4eW11TFNTc0ZfS1BOeTY4M0JxM2NIU0xJd1c2QjRRTHNaNFJTT3BXSnBYTGhhRTN4UWlOSW1GWXRuSFdJWDRmRzlRVWtsSnRNWjJZaUNmQWJrQjktUnhWM0plNXfSAdoBQVVfeXFMT0R2RGdtc2FFVmZGQURWaE1oWjRXSEpZS0xPREZKZUR3MDc4bkRKTlZsaFJjWmU4b2ctb0lseFg2dXBCN0cweWZOeEs4MFpwSjRvNGVjM2wxT3U1ODdzZDh0aFNCcFV6TmZxNnZmQ1hBY1JPMmgwZHZZR3Zfb3YtQVVoemdwQ0E1ZHk1OXZoMnlJeWtoUGNjX0Jybm00czBVYVdIX1ZLTU1CT2ZmZEMyTEt3aG9LMVdNbUxBRDBqeXMySFNLZXNVcEpDdm4zNWVGZ0ozbUdxN1lMQVE?oc=5",
+            "snippet": "Blinkit Rider's Heartfelt Thank-You After Rs 500 Tip Melts Hearts, Video Hits 13 Million Views  NDTV"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 Preview: Analysts see 11-15x PAT growth on Blinkit's solid show - Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTDZtSmVBOHRuSXU0VjFWNVBfdXBhN2JJVzY4OEVHSmRxTGJqdU5VMTNPVmRrTWo4QkhOUTdYOF9OVk5RQ2kxcmswX0RpTUlLTDNNbEh2VnVocUliaWV0M0Z3MzU4S3FGZUw0LWhydVBHcEdiTTBQRG9uMElWTVZnXzFFd0ZvNlVMdnJLLWFzdGNTOWZpLWYzdUM4OERhaHMxY2NUcTh0NTQ0a2Npb05pTU5EVHVoOVNmeGhkVm9hYWRCZEJSOWJ1a29mWmE1cTMtRll1SGR1c0tDeWZBemNCTWsydVNDLWNocU03Ny1uU0lJd9IB9wFBVV95cUxQUHVfbms3RkVoR3c0NGluNzVuTlZJZXl0ajdKakRLeUxsN29pMjlTZnFKQmJsMlBrdi1INHo3V1RLSG5Ua1hXeW1FSnNoRlpZMlR1Y0ZZWGVxQWlGNm1pZGZoVlFmUms4VVJWc0VYREhTUXBkOEN5Z0N4WDNCQ2ZLOU91ZG4yWW95eVljdEJrOVpjRnFwdThSa2VkNXp4di02WVVhWmJOaTgzbGZtd2RiWi1kcUVPZEZxS0k3WEFhUkg3MkYzQnpHaWVoTlctbF9kczJSSmdlckpVWU9qQkZrcEYxekRoV2poVHhoQ2VERlQ0YzJoZ0Rz?oc=5",
+            "snippet": "Eternal Q1 Preview: Analysts see 11-15x PAT growth on Blinkit's solid show  Business Standard"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Bengaluru woman shares how wrong order led to MBA lesson from Blinkit rider - India Today",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZFp2WDMxYkNaZUMwaWI5Qks1dms2WGU2aE9oV3NwMlI0T1A3SzY5LVVsQmtMVVc2NHRGUTlQTExsaHk0cmdjUENidXFOc3pQVV9zblVNU3hRZkRpN0xtSWd4eUdSc1VremltYWUzV1R0TnNVOFBVY3ctaGxzbVpNbWVkTXpjMy04aWRMT2xBTnowbnI5RVViSW9rVTUyajRMVm1JWHI0MzVrM1pPY2ZNa2NaLXBHQlJmR2FMV0dWZDhNNWkyb1FzOS1HN0dMcll0TG4xU1ZBUQ?oc=5",
+            "snippet": "Bengaluru woman shares how wrong order led to MBA lesson from Blinkit rider  India Today"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "IN PHOTOS: Mumbai's Blinkit delivery partners park vehicles in no parking zone - Mid-Day",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcS1tQV9PRnZFeDMxZjkyS0preUVTWXBiLVJUMkstM3h3bUFPdktrSzg1WEZxQXhNNlpYQ3M1dXlSdld0dVRKNFU3akQ0R29WMktJUnY0bFdaZFBGeTYzOVFCdnRNZnRVLUdZTzBfY3VQWTdzSlVMTWZSaWdBeUpxZkNGYXVlZWFIekltdWRhVVY2aVh5dThBYVNmYjgwYTVCaUwxTkg5d0tTYU1XQUpCdklTS28wR0xYa2FzXzJJbUs3eEtGTElqelV1Rms?oc=5",
+            "snippet": "IN PHOTOS: Mumbai's Blinkit delivery partners park vehicles in no parking zone  Mid-Day"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit ban faces local resistance - The Shillong Times",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmRGNWEzT3hLSC02bTFHNVkwN1hBaFFGeHZYR3NiZnFGNHN5ZGZzMTAxdFhZTDZweTFtVl85QzFzaFFfWnZKbDNGRXR4aWgtRGp2LUcwUlppTXhsbTNvVzYybUt1cl92MTE3Wkd3RTZaTXR5V1o3SG1DV2NYWjJwSg?oc=5",
+            "snippet": "Blinkit ban faces local resistance  The Shillong Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 Profit Surges Nearly Fourfold as Blinkit Drives Revenue Growth - Daily Pioneer",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd0ZVQl9kN2ZrNW1Na3locElWanlJV1pZRm90WkpSamRzTlZ4akdOTmhQQjRSYU5LVXZGMzgySHZzMnh5aVk0R3RFSGpMX0VuX0RFcTRSUDI2dXEzV2c3RjU3Y1JhaXFwLWwtTmJfNVB3ZUxLT3JrVjF2RkMyRG1Qem51Sjl2SWw0ejAzRzlKLUIzb0dKek5hV1YtRVlYZHJrM2lua3BfRWVpdFB4Vnc?oc=5",
+            "snippet": "Eternal Q1 Profit Surges Nearly Fourfold as Blinkit Drives Revenue Growth  Daily Pioneer"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Top Stories | Brent at $100, Infosys new CEO, Adani Airline ambition, Blinkit's dominance - CNBC TV18",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmxoa2pwLXRTckFTd1hVdWxXcVpxTU5yXzBfSDR1NVV3al9PWjRTWGE5Q05YT1FxRXZGclNzcmMyajlWbDltajY4b1p6cmNzREVuUFF6WTQ4eGljeTJ3VU9ZeXFnU25iQThnQUNyTkNMX19qLUdSZmR4d0oxYVNFeXhJSlhlMVp6cEg1MWZqS19WakY2bjJ0cWZiaWF4c3diZkg3YzJaUEJjTlkwamNWaHRoNlpzSDliMDB5MEw4UjdPMjZfc1NpWVlJQUjSAdIBQVVfeXFMUGZabzhHWHcwVDI3bHIxaUJEVS1UZ3lEM2t4aW5DdFpMTldCU1RDSDA2M3VBWVAyVTg3emU4WVRKVWotX1M5dFJvZ0VpVk5sTDdDQnJCSmVGbjBLYkdOMVNCVkNneE02OXM3d0ZpUGtmc0UzTm51bzlydGxWV002ZGV4OGNDbktOUWJpOXZySGhwMGhoU2FPazkySnpnZDdHUzcyQnFpdzJkVlJPMUVUY3dxNHRLakkzclk1SU5lalpVZi1kZmh6OHBhLUtUMjNtU3h3?oc=5",
+            "snippet": "Top Stories | Brent at $100, Infosys new CEO, Adani Airline ambition, Blinkit's dominance  CNBC TV18"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal stock rating: Brokerages bullish, eye Blinkit profitability, food delivery growth; check target... - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQUFabW9UZXZaYVJIampFUTNfN1lmMjJCczcxNFlHcXBnQ2o5QmNram95YV9qOVNfcm9GQWtwN01id3lGeEk3Nm1VdlRUQm5ReFZ6M2tiV2stU3NncGNYWlB2a3M4WlloRWltVWRVZUR0Nmxqd2hZNVFIcXdiTTRYakpWOVBjal9PSHBWYm9xNEdUb3JnQzMyREZ3eFZWWF9zMGxuZ2U5WXRDNkpZRjNlZnpyaGZPbktsRkJsbUlyWkVpbVAtVmU0dGNwMmhRRWNUaGtLYzBNM1hFbVZwWEVzdGkzRlYyT2NMLXJyUWtPd21ZODhIb053a3YxcUlHa2t00gGGAkFVX3lxTE8zUzdIMndZZk5EbnpkVFYzNTZMa2FLRUp6aUV5RWpCWGJocFFDYW5TTWdzTWlQMmtOejdkTzN4R2cycTJKVk5ST1YwbWRjdkkyRExReTFmYjJBdHBnYlRqQlBYQjdxQ0VQTGg1aFc2cDlTR0FjdWNZbFVZaGQ2NUJ1Z2ttcXJ3UUEwLW5LUEJBRWtGU0V0QVlhWlJCbl9lRGJvclp6VEJtajZoMHZzMlNxaTRZck9qWUNlb09vSEN4VmM0aXdVOER5LXZmOUZrNGJxc3U2dFZWcDZkNE9wU1pJNldWaFdTejNtS3dzR21oM3lKaTB2enkwZ3NWcUNBNlBtWHhlQnc?oc=5",
+            "snippet": "Eternal stock rating: Brokerages bullish, eye Blinkit profitability, food delivery growth; check target...  Moneycontrol.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Shares Rise 2% As Brokerages Back Blinkit Growth Despite Profit Miss - BW Businessworld",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWW85WnJ0bHNMQ3c1bVA2WDJ3ZVVKTDdtdk5NNG5SVUd2d3ZTMDVaNnRjZ1lfaTVfWUpzSVBzckxza01nMVhMSmhha3hCMXFsUVp2VjFXLWV1YVUtZ0gtYm5JOHRONHBKM1VYTFRHNW15a09xckxsMVQ0RmF2dG5ZZHV4czhESFJhUzIzVmtPWlR4THg3T0pwS01XeXRUcTR6VkdLV3RpTXd6eURHVmM2TjA5VWRCamVDTC1R?oc=5",
+            "snippet": "Eternal Shares Rise 2% As Brokerages Back Blinkit Growth Despite Profit Miss  BW Businessworld"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit takes the premium groceries route with ‘Gourmet’ to lift order values - livemint.com",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON0x1SmlvT2hFanZOVlpZWGE4ZXM3Q1dZbk9iNTV6Z2xTb24tWXZ1bTcwRVBBbkFuNjRsMHdoNFBsUWVGQ3NSbkd2ZVNGQ0pxSDR5LU5GTDdvWUtuZ2tTc1o0UUxScmhRcUJxbmhuWmhETXkyb2ZkbTM2M3dWNlJPZ3dES29EcGotVVBGblYxeXRHOWJQY0hzWkExYnVsWmFKWVpwaEJFeDJkQzhtWk1ieHhhenpyR2VuVFdmcFdNRFBkWDE3S0tFX3hB0gHPAUFVX3lxTE9LSXNUOVhUUGQ5QU1YLTJ3NjJSbHlqMHQwRHlnbUtSYzByNW40WEkzVkpvbG42YUNYOFk0aF90bUt4c1ZPOWhsU1o1S3o5WUMzZ1h4NjU1dVlDQ1VwWURzaUt1UkRaQmFuSmVPc2lrZmRoNUdLTF92SzdkMlVmcS13aWhsS1BlZDJOaVk3cWtjOTVZTmhLNU1ydmJhVzFSOFpmb05RSnNSbGlfZW5MQjRDY1RtOV9IcUlObnZFNi1TVE1Eajg2LWFTVDdjcXZJVQ?oc=5",
+            "snippet": "Blinkit takes the premium groceries route with ‘Gourmet’ to lift order values  livemint.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1: Profit Halves, But Blinkit Delivers Record Operating Profit! Check Details - Business Today",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTjM3QmZ2MmhDTDRVS0ZGbGFocURQUHlNV2pQenJON250T0dkTWM0U2xOQWdFTzdUUUJtRWNsRkJfNUlSdTcyNTRDV085WjNjdklsTXdyemZtRFE0VzNtLWJQMG0wY3Y0SkQzb3NRVUZ0Zlk5NWs1RTZCTnBGQTVmQmtZNlpfVmliTV8yQlhaRk5ETFdNbXlUd0c0R0hhTFBfQWhEdXZDU1BNMTVYSXBDZDZaV0ZNTlFaVVNkeXQxdVV5SlM4SktHMTl1dVRwUWJNQmlMUTVVejlPVXRvR2hqQ0FB?oc=5",
+            "snippet": "Eternal Q1: Profit Halves, But Blinkit Delivers Record Operating Profit! Check Details  Business Today"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Bengaluru Blinkit rider turned down a ₹100 tip, and his reason has a career learning that no management de - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYVVBaklkU2h5a19md0p4NmdDQllyaE5FZGNMYlExV2ZRbmp2YjNtMW5FWm9ZRGJiTTBjZ1B1SURib0t6czhjejVvbEVSb3o5Xy1PekkxVW53LTRxaGwyQm9obFpJVWpSZG1YZXY4SlpaSmIzX3FRQU5pcWFYNHU2bXV2eE5VWDFIOXVBTEZVSWZudVYyRTZaS280eEZ6dWx6cVU2ZmdpU2hYdVJQSDM0N25pX3o1OGZ1Z25Nb0ZXLVZiT0NoQkszY2VwOW9CazhYR3RZbHd6QXNzVWZsV2FGRVVoelhBSm80S2JHYjJSQWNCRHdNS1E1cGlMYWtTOTV5Qkcyd3dVSURIMk9QUUtR0gGUAkFVX3lxTE4wZnRWMW1GeXdRa1o3Sjh5UEdKRW14R1BubHBVTERjZ0ZZdHR5NnU4YzhBNDFhaW5ieTVrSC1yUVlLUFEtT0dFTzAzLXZFZzVNSXJIRWxpemd6X2UtR1pWZERySGowNnNLbHl4RmtwMVVPMFA2b3hfNTZLSUZDSG5uY1dLdlJ6M2Q5QXJSc012d3A4NjkzQW9PcTFnelg4Q2RlR1JfS1lWQ05pN012dXB0RnJMNEt0bTZsV2N6Vy1CbUlnLW1wQkNUZmZXWFBlN2U3WDBCaXRoZDhpQkQ0Z1NxQVlDNm1IcFBneGtRalVuZ01ISjRqeWtsekVyS2luc3QyZTVaQlpQMi1WOHRkOHVTa3ZMRw?oc=5",
+            "snippet": "Bengaluru Blinkit rider turned down a ₹100 tip, and his reason has a career learning that no management de  The Economic Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit Reaches Manali But There Is A Catch, Your Doorstep Delivery Comes With A 2 Km Trek - NDTV",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUzRMYXotZTdOZERlc3Voa1FZeXB6TURMQ0ROMWdBSUdfTXZ6c0dDTGJKV2E4LXdWY1daT015QW5HczBkcmkyenlyQ29iOWNxejFDVWV5N1FySmRoazNGblY2UUJHcUpZS01YTHIzZEpOdnU0MkJfVF9ScWE4MTM0elNMRFljMEhmb1U1RlhKTFYtbTdjWENlc0NnTmM0Wng5aXB5SFdzVERHcjdHdGoyRnE5VkNLQ1dPdWFqb3hmbTNQd2Ez0gHMAUFVX3lxTE9uOWpvZEdOVUFLWVlQMG4tSXdOaEZPbDlub180RHBQZ0hveFZlXzNGOWNpTkRhcUR0SG9fQmFkdm5MVnVqVTZtVHdhRkxrZkxoRTluUGtQc01EZ1p6LVFOWEpJeUZ2WjBZWlFlZl9jQVJDeENUQktDOGhsLTFrY3RXbGlRLUtRd1V4bWF3aG1Dc042bHVIWWFwTC02WmVKaU1NQlU2S3JBVGJKWHZKZTIwT0FKNjVQWHcyVExKaU1kLWRVb1N6MHROeEZxbg?oc=5",
+            "snippet": "Blinkit Reaches Manali But There Is A Catch, Your Doorstep Delivery Comes With A 2 Km Trek  NDTV"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 profit jumps nearly four-fold to ₹92 cr as Blinkit powers growth - Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdVdVRXZuU1hUa21rZ0JxYTJKdGhoVjNmdXlFODBnZS1HdnlybDFiY2Jpc2hNbnZnZFZEWVJmUmdyTTRpSTl5V2hmakxpM0NuRzViTG5MVDBrTkx3QUI1SFRNWTJNcExOY2Z4YjZVWXVPa2Itcms1blVaak8zcjdDSFhWbTUyUlIyTWpCMjJxYTFWRTJqSk5lOC1DQWlXTDE1N3ptZm1ia0VxNGM3SGNwLXJIaEgta2lSd3JEUnVpcnpTNUpwTjkyRzVMTnVsVTBjRlNiajFhU1lSLU56dktaRDlJWElSSDdW0gHuAUFVX3lxTE9rRjhKcHVaMkRqc1p6T3ZUdVZJWFlTYW1MalBqdjRSaXhJMWJLY0xsdDJoSE9CbkFCNXJiRnBmM0N4YVV2U0dEdUIta2pfY0dod25KODEzRFgwdGVvVnh3M25Odnh3clhHT3JjVDZvQUFHdU5uaFZ1V1BIYXVha2pUX3NUSWswdkQ4dXlyZFBBRFNZX09FNGhKVS1Dd0dFWS11QXdJVUppdDJnUUstRHVzMl9ZS3N6R1YzMk1VSllTak5RYkZwTWxjZmNucnpzbkgxdWhUdmR4RTZiRWdjRDJmemZLYTBxeGlPczV1SFE?oc=5",
+            "snippet": "Eternal Q1 profit jumps nearly four-fold to ₹92 cr as Blinkit powers growth  Business Standard"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Q1 Results Preview: All eyes on Blinkit to drive earnings. Here's what investors can expect - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPR29Ya1dXVGRWZHpHc3ZDQVBseGxocG03MjlNMkJDOGlZTktwQmNtSkRuOVhUYk5lMS03QVppU1RFbTVyWS1hMTJRc3lPQ2YyZEgwTnF2UllIVzZURXd4b0FEb043cXZmMzhZUVZFTGJCQ1VQZTZyQnZKX21BcVVwSFQtbjBhMEl6ZjlvX3JQRERoTG92ZHpsREFoNFdiUTVfSU5OdV8yNC0teVM3MDU3Zno5XzNqczFDb0xrWUlVWHhZdDdwSXN3al80bksyYXJ6Q21YSFBwMFVjSFV1TWlMaHJSVC1XWWpUMzZJS0tpX3Y2eFBhOTVQWmxrNUl3bVlNWklobg?oc=5",
+            "snippet": "Eternal Q1 Results Preview: All eyes on Blinkit to drive earnings. Here's what investors can expect  The Economic Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Bistro by Blinkit: Complete Guide for Delhi Food Businesses - Shiprocket",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYcmNqQWM2SjQ5ZmFsbGhYaXBzVl9VMno5ME1qeG5rRzFXdy1ST3FJMTItZFEwQy14RDNuQ0lxeU5CM1NaQWhJSHJvX1B4TG9FYjlkN1hGSzRtQjEyYnfSAWNBVV95cUxQQnhvOFdaUWRLRHBkakludlVOcGRCdEFCY1pTeU81LXVJRC1VS0w2MnlQejdZRHl2NDU3V09XMHBjbnVNQWt2TEtGMEdkejRqc0hTNTBJQVJLbUdlVXJ4dFo0cGM?oc=5",
+            "snippet": "Bistro by Blinkit: Complete Guide for Delhi Food Businesses  Shiprocket"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Will Blinkit growth sustain amid competition? 5 things to know from Eternal's shareholder letter - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZnhFUzlVTkk5VHhXRmxfTnM2a3JmeGVuMkFPT2hSVWVUekh5UE9zdjdnNVRMNUU2NnNaSTRMaktTLXhmeVhjZEVKRThaS3I0aDhYN29NbGxhcENtbWQxYllmX096eG53NGI0Ylc5cmlFdzJvMDN5OTYxVWNzaWtrM0xvVU1FNlRFQ0l1U210MHJHM1Z3U1d2SjBTLW80eFItekpSWFUwLURneXF0bnhwNmVycFQ5aXFBdkJzSi1DMGlrSjhJTjdYQ1FwX2VjTHNscmNVRVNlNlNlemp6cjRLd0xKbmQwakRQRUdWS0p4WTgzYWNTLVlMQ1BxNG7SAYICQVVfeXFMTnFxcjJxTTRJWWVXb0ktSmt6N3AtTkZwSjg2UUp0NHFJUVZTODlhS0Y2ZlRGUWJyYlZRSGlCM1ZMbEMzSUQ3Z2d4d0p3S21GVVpKdEwzWjg3ZDFvOEVDNGpfR3dyR3JhMEhoWTRkeDZtWFRra2w4MUZKeWR2Zlhzc1ZJQkF1WGVvdGs1RVZCS2lGZU0xOEpKYkhLSEM3RWM2OG1QNi05XzdvQ2dyODc4d1ZlaWpBN3hHSGZTZm5NUG5qaXp1bUh5anZFS1Q0cU9Ha2tiVFpHSzhEeE9iZFQyY0ljY0pCZlBjWWZnQlNIcDFpdmctc004QXM0T1Y4UndpM1Vn?oc=5",
+            "snippet": "Will Blinkit growth sustain amid competition? 5 things to know from Eternal's shareholder letter  The Economic Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Zepto to launch premium grocery service 'Select' to take on FirstClub, Blinkit Gourmet - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSWpkOHVqb3Uyd1VIWEZqZ2JnUHVjQ0dxYldKNkRMMGZpYmZoR3V4UlhCRV9sS2hEVG90dV9PbFp4MDU5SjZIa0dRZHhtaEtwNGdPYWFyd1gtb21nSWFKbXExb05XQy1IdTF1RERjNGRaYzk1aEEwU21zaWpKUnU4d051Vy00ak0tcHVCNU9fQjhwX3llY2o1S2RjVjlrdHNnY3lDaTdJMTRjaHBmZHBKanFzRGZaTGhMaXFGSnJrdi11RGFtZG9TNHh0Qi0zdnhYbDBIN2FUOXhTSGY3RXFTN1d30gHnAUFVX3lxTE1jMUg1RTZjRlpJbnNCUXRjZVBGeHFURV9KUzlONjFLTDF4MTVmOE5rcm5LRjZ4ZFc0Z0dhalJsYmpGUzRtSUtHZzNndmJCZ3A2U05OWlI2RFRGTG9fQ2ZVdFI4X0c4R29qMkZoeS1WY3JQdDVqbnIwM0xaME5WNEZmMDl5TnVYUEprMVBJbl9PT3NUaDk3SVNwOFd2Nm14dC0zcTJpcEtYRTNqS3ZGOVZWWjBCMDB5RWlLTVM4RlBpUF9EdWJuZ08xVlNMTVhoTXNGcV9jWVZrX01VOGc3UnVwMkhFbVM5SQ?oc=5",
+            "snippet": "Zepto to launch premium grocery service 'Select' to take on FirstClub, Blinkit Gourmet  Moneycontrol.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Chennai Family Fell Ill After Having Paneer Ordered On Blinkit, Woman Alleges Complaint Went Unresolved: ‘I - News18",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY3FvUERySlh1X040YVk3Si1sVUx3cGdDRTdzRVUtVHZVTHMtbXdHMXZiYTJQZWFmSXJKNkZja2RkcWZvQTlTcGt3dmM0SVZTOHRnWGxHZzBWaFcxeXVFdjI1TUU5aWgtSWdpS1JXTksyS0ZQM0hnVUR4NWhkT1ozVHcwamVjR1p2RmRpV3QyMDhEelp1MlBEMGhUMG0ySXJIR1ZsZjZnejN3QVNXT0FFdHJNWlRRYTJzLXdnX2E1TmJDVzk2bEVOcGJ5OVBpSVpnVmkzLVYxX0ZtUzdQOTg0NW9DTjFlcmlSOXFNTmFCUVdPMDVPd1pWdHlkcUxPZ9IBgwJBVV95cUxPdnA4eHZRRnRlWU12LWlQNXc0QVpLQTZXSnJ0X1hQWUZtXy1NS1FieHRWTDVSYmFiclcyckFBdkR4eVRFZE9GYy1TR21ORndJUEFnb2xTR0JndUg2c2JuVGlFd280UTFYNy05NkNrV0NreDBPX2MzUlY2SGkwRVhQYWF5RjljVG4xNDdBYXUzc0lEdVFwUVdFMmJMV0FnbnQyS1lhVGhaOFhIWTZtV1pUTk80Q2pMOVZ4WThNOVJSSWYyUEtNTVVBUkF3SmFlN18teWEyYlp0SjFyeHdVR1ZuanJrTnloRXJ3UHFORnBUTUJHMjhzSGoyOW1LTFItTWh2b3pn?oc=5",
+            "snippet": "Chennai Family Fell Ill After Having Paneer Ordered On Blinkit, Woman Alleges Complaint Went Unresolved: ‘I  News18"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "‘We Don’t Stand a Chance’: Blinkit’s J&K Entry Triggers Economic Worry for Small Retailers - TheWire.in",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSjVtY0NhX0c4MWpLNldZY3hhbEFmQlVfOW82V0l5WkhhZlJXRlN3QmdHVjR0NVBzOVN2U1h3a2dpaDJjQ0R0WHQwMUNIV0V3eUZib295Sm1uYnV2bmZIOHJYSXhZLTBhU1hIRzY3ZFgxZTFHUFRfSFBTUGxQZFhDdHRtWmZ3b0xjR1phb0dKcndhakNvXzl2M292VUhKN21MRHVVVFZQeVlRRXRUQm5SVVppWEVhVWhQNXpDctIBwgFBVV95cUxNQ0VHTzItZ2NFMUt6c0ZONm5wVlZCYkc5UHZjS3B5MGw3a19UMmNQM2puTnZmWGZNdWRuZ1hzMkQ4NG5VYzNBTk1weUlHSnBQMFZnTkYzVWNoMnUwZEVUeVlDalA4VUdKTnBFd2RuM292LVdCQU9sSmVtVHBYZkV1T3paVE1CRjlkdGlBREhuSEs1NDZwTVd4VGN2MGdqWDhwMWVrZF9ZVWc2T2dtSlo2cmhfOEYxY080SlpLRHZxMm15dw?oc=5",
+            "snippet": "‘We Don’t Stand a Chance’: Blinkit’s J&K Entry Triggers Economic Worry for Small Retailers  TheWire.in"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal In Focus: Blinkit Zooms Ahead Of Zepto, Swiggy Instamart In Q-Comm Race As User Gap Widens - NDTV Profit",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmhNUXlDX2dmQ2wtTjZwUEJqR1JQeGlNajVwUDJDbVRzLXltOEE3SzUySUpiV1cwaU12b1F6ejB4MW9QRzg2MGhiTlBReFRVSGJQOFBlT3R6ZGh0aDlHdEJDUFVhYjZWNUJjZlBVWlJOZ0ZSMl84TjllNUltRUV0RE9rdUU5eERYZ3g4YU5mYjR5aG9EOHBUUWYyMWFyazhIQXVZWHVlbFg2SVpma05SYXo3R2VjQkpNRDR2NmVJS2p3emJqSVE0b9IB0AFBVV95cUxQN0RLS3N5TWFobEtCZXlHYlV2SXk0VURXRjhuNUFsVHFLY2xFRWhGVzhBdDhiSDAzRC1ENUppUDcyUmMtZFFURlZDT3dXbk45YURmUG1zQUhobVhQUllPMDQyd3p1Q1NzMWdGVVVEUGNtNEE0X0hwcnJnLWg3RnVvOWV3N0R0UTI4UUZfcnFtV2xIU19MYkU2OUhCeGZrMzFSOHdxRmFrTlNuYjFLMndQMEpIS0VqZDItYmYtZWdvOUpvY1FTbVBQRmZvQm13b2FZ?oc=5",
+            "snippet": "Eternal In Focus: Blinkit Zooms Ahead Of Zepto, Swiggy Instamart In Q-Comm Race As User Gap Widens  NDTV Profit"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Forget doorstep delivery: Delhi man shows he orders on Blinkit in Manali, then hikes 2 km to get it | Hindustan Times - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbmVscENSUUZrMnlGU2RfMUtBcVFDUXFPYXU2Ry1iOW5hU2pCQ2dQdkllMThRYWRMbVhQTGswdGVPYnV6V2FkcF94bTdEOGtIbTZrTmhEUUJKbWJLOVVxTzdydkI2OThvZUNkSjJZeXhWNVBJcGh6dzc3ZU1LQndSTHUta0hFWWNjRVJZWGx2NnhZYlkwY2FIX1gzZzhWUHBlQWp4dEt3RVE1R1Q5cEtUWGI0OG5ZMkpoQUVWcTdTa1k2TUlWNVpTVVZpd1RBSkdxMWlKREhYdlFoQzE0Q0NV0gHkAUFVX3lxTE9wamhYUENCWXpxc2hSQW1yNmdzNXo2aEJfZ04zeDIwMjFYd3VKSU45a1Jud3c1a1Rwem9IMmg0dWZSZkRubE9OQ19nTV92eEFLTU9Qb0lnZ3QzZXhYdF9hT3FTWVBrcUNES1FwQ0c5Rk93UTZSNGtsTHJjbzU5aGYtTHN5Z0l3SmFvQzBReHdheFcwQVBUbUhFT0toazI3VlhtdVMwM1NUU0pCbGE1V2s5a2VhNU9uSDdaWDNzeXVvd2pndC05VTJWMllVelJRWk8wS1ZiOVdiMEI1Tm15QTVmUUx1Yw?oc=5",
+            "snippet": "Forget doorstep delivery: Delhi man shows he orders on Blinkit in Manali, then hikes 2 km to get it | Hindustan Times  Hindustan Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal’s Blinkit and Zomato Surge in Q1, but Ad Blitz and Wage Hikes Squeeze Margins - finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vZkphY3pnalE1Q0FBYS1RSGVTRXc0aUZsR29YdzlOUzBGTjZabmV0RkNNdWVnZ1d3UXpwZ09zM0NFdlhQMjI3TmlwOVVwS0l6eXZRNU5tOWN4Zmpka2piUm9kUXJkVjBqanpKQVZjSTBuZE43b3c?oc=5",
+            "snippet": "Eternal’s Blinkit and Zomato Surge in Q1, but Ad Blitz and Wage Hikes Squeeze Margins  finance.biggo.com"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Bought a cordless pressure washer from Blinkit: Good investment overall - Team-BHP",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzBEcUtteUtoajdvVFFCSnduZllqWlhURUIzR3hoMFMwMWJmZTJveUNuZ0RIbG52VzJzQmhnVlQyVU5xazFhWjI2Vzdxc2ZsNHoyRUd6NXRiWHZPcmhLMjFMZTdfLUtzaGx5eTZlamJjUzgxTDRNcVlIZXBKQ2Q0aGNlaURVeEdScE1MYUQ0aVB2Sk1CZ01iZ9IBngFBVV95cUxPU0RxNW5zeUw0ZlBvM3NoX215SFFWWElmQzRuREJUUUxfWjBma09HSjBOVGVqRC02d2NKN1BxZFdCZ2QwM19vVHZxTHdmdk92bDZUOUZNVUUwYjJreEI3dTF6aWJ5a1ZjU0VTSkU1d29Lc2hKVFNiUmo3SEtHeXRHc2dFamo1THMwbGhyRmxCbmlLdmNITFJBWWs3MmltQQ?oc=5",
+            "snippet": "Bought a cordless pressure washer from Blinkit: Good investment overall  Team-BHP"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit–Snabbit ad sparks panic over 'confidential photos' delivery - MSN",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNXzM0enhVU1VmSGd4NE9ydXpWc0hhWGFMUkFuOE84U1MzdEE0M19IWVgtUG5uWFQ1V25Uck92Rm53alFDMU5sZkdKZUhzNk5NSngxU1FaX0xvcDJsR0diNzRtUmZVamJUS1BIRjNzbjhzS3lFQjU3ZE1NdmNESHhpSmZIUzgtaHhCSkpkNVpPblZCVjBSdTM0alktSG1iTGRMS2lIR1N2cWVHbTExYjRZN1RfQnNKLXJ4cjd5eEdHS3YtMGV6MDBQOVRrTWJFNG9xelZ3MDlnQTBLekJNeklJODNXLU00d3hQZ3FaN1BFbFB4MzhRY2g0QnNlQQ?oc=5",
+            "snippet": "Blinkit–Snabbit ad sparks panic over 'confidential photos' delivery  MSN"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Why Meghalaya’s tribal council blocked Blinkit despite state clearances - MediaNama",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjNhMDNSV1V1OVBLLU9Hc2wyblRHV2JRc3o3VGJiYU5HNVFGbXVFZUFQTy1FUTRLUy1EOGJicERSMkJoSmpLSXUwMUg0eWxZaXEyUk1hVngxcDFKZUNYVzNjX0JmTGN6R3FxV3lFQld0eVRSOURBUXUyVWhMcUt0NWI3VHlwUnhfbm1nVg?oc=5",
+            "snippet": "Why Meghalaya’s tribal council blocked Blinkit despite state clearances  MediaNama"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "AAHL, Blinkit launch India’s first in-terminal quick commerce service at Mumbai Airport - Adani",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONld4eXlkcVdFdWsyaHlvdWJlTU5PaVRacldQWFVOdmFfUl9aZWl4cGwwLWYyWU1pS3B5WVc2bmpVaUlXc1JEdUhjRjNOUGpyRTE5SmV2U0hJVVhKc1g3YzVVVDZiNFFhc0FzSlZMb2FSaV9kVE5Jc0JuelFvVXY3VDkwbVE5QTN6NkRUUW41bTFRam8zN3F3YkJ5X1lzcjhqeUlDVXUtSkRJNDRVUHo3a3ZtaW0zZURHT0M1UTJSU21uZWk3dllPSEh0UQ?oc=5",
+            "snippet": "AAHL, Blinkit launch India’s first in-terminal quick commerce service at Mumbai Airport  Adani"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal Says Blinkit Margins Are Starting To Click - Finimize",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2F0TlZ3ZE45V2lxSlNPSXNmQ1QtckZuNG1rVWZINnZnNkFMRW5Oa3VJTFVPY1VnME5uYlJmandJT2dWejViRGdZVi0yUmEySy12QjJwWUMwOTdHQVJOOXVoemZLbXBFZm92X2hmOUtPOXJ6Y0VwUWRlclI2QnpSdWVWMXBVSVJsS1E?oc=5",
+            "snippet": "Eternal Says Blinkit Margins Are Starting To Click  Finimize"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit–Snabbit 'confidential photos' stunt sparks panic, debate - MSN",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQUZoT3dBMGEtNzNiWEFIQWVhLWlLWWhSTG1NQTRWMjFhQno3UkpnYTdQV1hYSEYzRy14Z2RtMS02NjFBbW0xcl9wS29zY3pJSUVlbWd2c3dyRzVMNE1BYThlTzB1Y2FJZmw3T3RUVFJoUHpVVnZMY0dlLVdLQ0VZcHhsd3VZLUlSd3FrZGs3QmtNbTlBNXU5Yms0UkVQRTVZdF9mT3lLRWtEakNtcG9NYXV2ZjhZOXNPUDhTWlRSSzBuQ3dTdjQxZ1ZoN294YTRiQUNhSjBoRnoyYTk5eHpVcG92SXpjOS1NTTFKemN2VzJtakRWa2c?oc=5",
+            "snippet": "Blinkit–Snabbit 'confidential photos' stunt sparks panic, debate  MSN"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "‘Confidential Photos’ found in Blinkit order? Woman says she thought it was blackmail before discovering - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZFJvRmF0aW1JbURJYkJPb2NLeDlGNjlTNE1vTk5iRURhQW04UXVzMWZkZ0tDSFJMWlIzalpCem9kdERfejVhWWZyQ21FaW5CUzlaWFNZQXhEbmszWlVUNjhoWFpyeDFVNFlBb052Q1lXeG5wQWt3dFFzUDU2TnM3RDRpQTdfMmVjcnVEUUFPbWxJckdnUFQ3RTR1ZzV4UUhJTnl0cUFwMTZXV0MtZGpJaEQyb1AyTTJLbTdwWkFrYUtVcHU1cml5SnVVUkl6V2p3Nld6WDdzVHlxai1HZ0hXRjlCeENPYkJGY1NkaDhmU1g1dlVzcTVXb2hvM3ZNdnRzUEh6QmpCZ1pjazRtRS1wb19jRUUxYWQ20gGeAkFVX3lxTE91WVpOQUVnLTlpejBfMkFTMXhwXzJXaXBnV0tLSnI4NkVRc0c3YTJLSE1GdDRabGNjMEdmZWo2M3g0TDVlOEVpdUt1MDBWLW1uT3MxRUl6N21qNmQwMFZEbllSWlNfSHNGU3lGY1R5Q1dOZ2FIaFhQR2pQZUllUm93b0VMZURWeWpsT3VfdjE1bkx3N0liQzJpYXJSZFYtVHFsODlUTW4tbjloeWFPSDduYTF3OTNrVk5hdlQ1V2ExeXVIdjg2aV9ydjhPcHlnLVR6WExVdDlmajl0YnNvLXkyRFhmU2Rmd3VtaENMM1o0bnJKMENCVzhpMFF2WEswdERqTi1XSGpzcU1FaUkyMlR5Q2hsZ0p6ZkZBbEJLRHc?oc=5",
+            "snippet": "‘Confidential Photos’ found in Blinkit order? Woman says she thought it was blackmail before discovering  The Times of India"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit–Snabbit ad sparks panic with 'confidential photos' delivery - MSN",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMDZGcXhYaThUMkk2a2JQekpBT05Oa01Gb1pJWEZZV2VaNUVvQmNKcHdmTnktUTZ5bFFoUm9NdzFTd3pWdzV2VmpOR1AySVFmTDgyRHotNVhldjFtTTNwdXhyTnA4U1lpdUdjbUxTVmtLY0ttMkw2RHVQT3FvbS1nRlZCYzU5V2pCeGN6OFd0WjBtVzFfcl9ycS10dDFkT1hmbGZlaTJyblM3ZkxCMlVxemJEX1p5MVQxMmpxa3EzUFMwNHIxX3VEbTBDdi1iaF9hUWdJLXZxY3J0MG9QRHFTX3ZIQ1VkVm1NRTdLclNreUd0TkdNc183TURKSQ?oc=5",
+            "snippet": "Blinkit–Snabbit ad sparks panic with 'confidential photos' delivery  MSN"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "'Confidential Photos' In Blinkit Order Alarms Woman, Video Reveals Twist: \"Thought It Was Blackmail\" - NDTV",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXFOWjZKRGM0eXJDQ0lENGJNemRIRmNpM2NoS1hjNFRrb0x0bk5UdzZnMWR5el9NVWhQbEhQMmo1ZGNnUGljOGpUMzhpU0ZYVkJub0VmWExvN0VaRWRSaEkwQm5wakRNamZqZG40dUdNLWl4TmtRTUJRcW9Vd0xnclFGOWlQckd6NTl6X0tnXzZESjNIMElDT2Y3eGZiQzR0Zmkzd1pRM3lKUkdrd1hHQnhWSklxYlRSNDNveWN1SGNOcThnNnBEdWhmM2LSAdQBQVVfeXFMUEdUd3dTemxyelNNOWdmOGtRS0NNdVlvcU03X01YcFhlU3JUcklNcjFrN1FvcVo0OHRyMnM1VUJmOURNUHJNWkpJM1BOR2ZOYVRxSDZ3N3VHUnNWNzNjSzRKaXpxcDJvZWYwNkZyekp1cV9xWG9mbC1vYlFyb09ZRkxLWWZhRDl6ODh4MlFlQ1dQUjBYeEp5cGpVNVFISVE4c2QtSnhubEhwVm5tZWVMVDhJZlVUN3JQbkxzSzZTS0c1M0d1LW4zVG4wTHVHczF2N0ptLU0?oc=5",
+            "snippet": "'Confidential Photos' In Blinkit Order Alarms Woman, Video Reveals Twist: \"Thought It Was Blackmail\"  NDTV"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "IPO-Bound Zepto Eyes Premium Grocery Segment To Take On Blinkit, Instamart - Inc42",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUFLZnM0MW1RWThWVTk3M1NoNlJQd2hIZ3JvYkJRenUxd1M2ODRrV1UySTF5ZlQzUFVPQzl2c0NUN0ZlZFoyN0R4cXI0TXVSR1FSX3A4RTZ4QlVqS2gzZEtYNER4d1RpVHAzWldoYjI4bGZGTzl3NmluZ2pGeE54SlAtN2VmTW5iNjBJM00xZHFtTnR2TGZWQ1BNa21tdw?oc=5",
+            "snippet": "IPO-Bound Zepto Eyes Premium Grocery Segment To Take On Blinkit, Instamart  Inc42"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "How to Sell on Blinkit in Delhi: Blinkit Seller Registration Guide - Shiprocket",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDQm8zbVVkakk5SmVjemQyN2U4QTl3clpOSlZfNUZCVjRxRGNEbnFNQl9oYmVpWXpYWV9lNGh2MzZoUUJsckxyMFFSdThLS2cwc29NNExob0psbzkydFAyZXpHN3d4NkY5VU5qMG43UkxrVHc0aFJn0gF8QVVfeXFMT0lhdElFb1BWZUIxOXJ0ZC1LdFRlTWdySnBydUQzLUl5VUNrTUNwTWM1VjM5dFh0UnprZEFBU2JDclVTN2N0REdMOEY2N0kxTklkY3F5b0lnVFJKSVFLblhhYTFQSkZJUUdkUzNsYlNVcEdfWGdpbEZweFJRSQ?oc=5",
+            "snippet": "How to Sell on Blinkit in Delhi: Blinkit Seller Registration Guide  Shiprocket"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Can Kashmir’s Corner Shops Survive The Blinkit Era? - Kashmir Observer",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObEFXQkRwbGhRRFhRbXN2cFFVM2V1WjRFR2g1TEM4c1FJZS00QU1vMDlSdEp5c3NYV3lVSVlpQU5uSnBXY1NSaWJwS0NaUTNuU2t6V19pSHVvRUhxRXRiOGtiTnZScERfSjIxeUlHUUdrdzBUVWQ1X284RS1LRUV6ZVpITjhZdUxQd3lFOXhISU4zbWM?oc=5",
+            "snippet": "Can Kashmir’s Corner Shops Survive The Blinkit Era?  Kashmir Observer"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Zepto's 'Select' To Rival Blinkit Gourmet, FirstClub In Premium Grocery Segment - NDTV Profit",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkw5QTlWZFJNSHBjVEo2ZHFrRi1TVVJyMGdQb0paSzM5X0txVXNpa0hwSF9MQzBHNVR0c3JRVUJvcWRHMVdxVkJybDdMcG53MFhmVXZoY290STJvMEo3eVp5ZFlqWkRTYkhNcmdHalpHZDdxX1pvYjMyLWtELUpDdHdIN0p2SGtxZ1ZpVVBVUXZRTXFRaGJJa1RjM0tCYVJnNlNFZHJ1YkNQQ3doNFoycWs3eEp2cmJ0N2w3cNIBxAFBVV95cUxNUUM5NFNqaVVCendkUURrYnRXdzBiaUduVWt4NHlZdnRJSHBKeFE3ZGY3SXlFVlBWaFd3X0FjTUV3QjE2cV9tN1o3WWduQzI1TlQtNk9yTlJhdW1vVElJLWVQQl84SHNURnVRSEFaLXh0Uk9SeTh5S01uT3luRkM1UER4Y1FNeFBfVlNnV2Q0X09kOXFMemRFd0FYRUo5STBsSjJJWDZpZlAyc1FvUXhMMHREZkFCZG83S01tT0RqbGkybDU4?oc=5",
+            "snippet": "Zepto's 'Select' To Rival Blinkit Gourmet, FirstClub In Premium Grocery Segment  NDTV Profit"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "“Why Are You Using A Vibrator When You Can Use Me?” Woman Says Blinkit Delivery Partner Harassed Her After Delivering Her Massager Order - Brut",
+            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOTNBR284cnZEbmFKby1OQW1QUldTWGFGTGxTMGxkbmpUc0hpZC0xU294NkVlU0ZHU3NvNGFVVmNiQkZmVEc0VzVyWWhzb0t5cXN1OVRqSHFFaDBLaG9BcHpXLTRsalhXbnJPZE8wM2NIVEMzbXRnSnExbHVmQ18zMXpCdTZyX3Jmdk9yWlZrOE5aalRyeHhZb1hlQ3lFRDNoTGR0N3I5b3JFZWkwbDAyaE1sZFVfeGctMkc1TTA3aVM2Q2s1SmJ0aFFRYVFpQnFfZmtzZW5pVzkwN0VuOENnR2QwMGZseHhTTnJHNkRkbXBGY1RfYnRzU0FFdzlCelZPV3RfVEprWUIydV9YeXNv?oc=5",
+            "snippet": "“Why Are You Using A Vibrator When You Can Use Me?” Woman Says Blinkit Delivery Partner Harassed Her After Delivering Her Massager Order  Brut"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit best positioned for profitability within India's quick commerce space: CLSA - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWgyNnZIRXBTQkRoVlVDd0xqY2lwbVliai1DenoxUnNHd1g2VGhnaDZzYWtBcExCVG9tRy1mVnh4aTRWVnNTVnN0eWF6QkpjcFlBanpQaEp1N19SRzRvUjgxN3I2cTMzUHZTOGF0QjdOSnVhRWg3bmJaYmk5T3J1YldEZjc2YjAtelBuNzhfbm9QSkRVRHhSeU5BaThqbzZRUG5EMFAwLVY0V2xCakE?oc=5",
+            "snippet": "Blinkit best positioned for profitability within India's quick commerce space: CLSA  CNBC"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Eternal’s reality check: Blinkit’s thin margins and District’s losses - Entrackr",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVotbWpXSklwbC1xT2lzbDZLWmJCdENYWDZWTlpGaHZCSnVjT3pjUnE0TmZya3gwYzR2eGFvbEJuTDd5SmNzOV9qSVZpMWcxSnlBLXkyaFVvcWV1MjBRbWZGQk9CbGQtb2NHMFhGVWpGZVpwWkdjSmxFTUF0eER4VWVsZWRObjk5emlIeUUwa0huTERtbVU5YVVPRWdSVklPN09WSFFsNNIBpwFBVV95cUxPVVotbWpXSklwbC1xT2lzbDZLWmJCdENYWDZWTlpGaHZCSnVjT3pjUnE0TmZya3gwYzR2eGFvbEJuTDd5SmNzOV9qSVZpMWcxSnlBLXkyaFVvcWV1MjBRbWZGQk9CbGQtb2NHMFhGVWpGZVpwWkdjSmxFTUF0eER4VWVsZWRObjk5emlIeUUwa0huTERtbVU5YVVPRWdSVklPN09WSFFsNA?oc=5",
+            "snippet": "Eternal’s reality check: Blinkit’s thin margins and District’s losses  Entrackr"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Blinkit Returns Chocolate Results For Typing Gibberish Like Toddlers, Customers Call It 'Terrifying' - NDTV",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPay0yRjFJb0E3UGxEdXFacUNWOHpzZVUtaUdWOHFJTzExZkNxZm12eWlpRVktYWRrbVFQNFJvVl94NzN0bW5ZZk51SF82cTV2TkdTSzMzbVc4S1pKREpVcGV4aXl0UTJRbk9OQzMtaFNSZWQ0ZjRKMlFLNlUwSVNMZHdYdU8zcU1LYTFLd1BqX2RJWnJXRjFfbVpSMVFhUWV6SkFMb3VoN3FkRlZYSXMxS1Y1aE9YSUQ2MHlubW9iSHhVay1keVQybjJmd0lPQm520gHYAUFVX3lxTE5rdFRaOXBGMXpBbmtYX2stRG5PX3BmVjVuQXd5WUloQjZqRVl4VkZmY3lBdkhfUnprTTBkQWliXy1zTC11MUxzM25NQU82dFBCY0REdXIyNGFrQXAwOFVnRkV4OGw4eENUcUd1eEtaeHl3SlFxRWNMd1ZBLVVJSjNmenVjek52SEZQVFBpQkVxOXNndTV1cm1HdWxLTWp4VkdzSVNmYTI1VlNkNEdHRmRxbHVzai1iSFFqUzRVVTNGT0lTdUhhQmVWbDIzRC0ySkFXZUktdndJMA?oc=5",
+            "snippet": "Blinkit Returns Chocolate Results For Typing Gibberish Like Toddlers, Customers Call It 'Terrifying'  NDTV"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Kotak retains 'Buy' on Eternal, Swiggy; says Blinkit remains best placed in quick commerce - Entrackr",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVhUZzhLU054VWZ5NmJwWTVFQ0RDcmJHSGNvTjlGa3NDZVJxaUVhMndHV0JiQjNKRWRaWDIzSHFTcUFYaDh4X0RjN0lfbUhHNlRpQ0gxb0VOZDhxSjRxS1hZdUQ4d3gxaVk2MmlFQTlDUm05N3JjSkxrWEpteVhJYjdlYkdVOVRlcEVwaGM4WjRxSi1FNHdKU05jU3FobVk3V2diZHd1QzU4REV5aTNpXzI2RzY3VkpGWlhhdWt30gG-AUFVX3lxTE5pWFRnOEtTTnhVZnk2YnBZNUVDRENyYkdIY29OOUZrc0NlUnFpRWEyd0dXQmJCM0pFZFpYMjNIcVNxQVhoOHhfRGM3SV9tSEc2VGlDSDFvRU5kOHFKNHFLWFl1RDh3eDFpWTYyaUVBOUNSbTk3cmNKTGtYSm15WEliN2ViR1U5VGVwRXBoYzhaNHFKLUU0d0pTTmNTcWhtWTdXZ2Jkd3VDNThERXlpM2lfMjZHNjdWSkZaWGF1a3c?oc=5",
+            "snippet": "Kotak retains 'Buy' on Eternal, Swiggy; says Blinkit remains best placed in quick commerce  Entrackr"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "'Delivery partner taught me something my MBA didn't': Bengaluru woman recalls Blinkit rider refusing ₹100 tip | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNHBkOGFCUnFRZjg5RVVWUkY0Zk9FbU5zcHZMdFROTlFfUnJHcGZxUEFWbS1wYjBQT0tUQ1VldG5IV2ZLZlhfMGpRMWlSRXEwYjBVT1p5UFQzZjJidkllSHhmYVpfdU5ZUm84NkdKYkRqemx2U1hVVnVRYld4dzQxWEgzVERoV1JEVjFnRnJRMkFhTlppaHFNVXZnZDNJdDVyMzczdXZPUDlGSENEQlBVQ05qblhjUFVzRGZMVGZlVzJqeUx2bFZFMFV6RndfVGQ3eUVfdFZOTUNnZVY1RWJqZkZLZFlGWWtFSUNXMkFrVEpHSzRuZGJQTk9UUS3SAYICQVVfeXFMUExUSHpSN0Exem1qbktaX24xYVE3S0lPNE5XRUJGS3R3RjZSamoxX1NmdVRQNW1PTjByOW84a1JSbHh6dU5RZEhOZnA4Rl9HRFY2WWNxdVJ6dHlnUThvanBDelFZN3g3SFVSV0tGWTF6N28zLVFtWTZqYy1YaVZwcXoyYWpiQWlZRTBwX0dlNEJUcVpoUkVKZ0VHOGgzbmU4LXp3ek5tSnRBRHJjUW1kM2tja2JzV3ZiRE9kVTd2cW5zQVlyYmpqT1F3bHBUZDR1WEszNWZLY1VHQ1JXV3FkNFN2cXhVVDZWOWNzWkV3UVJjSDZYMEp1djlzeC1MTnZXSFln?oc=5",
+            "snippet": "'Delivery partner taught me something my MBA didn't': Bengaluru woman recalls Blinkit rider refusing ₹100 tip | Trending  Hindustan Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "KHADC faces online backlash for rejecting Blinkit - The Shillong Times",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT01wenV3N09CRjgtdGpROUdGT3E1T1hMbENlWm5VakVrSlNoa1FhWnlKUXVLel9tYzF4aEhUOU5uVEFfaG9KOWJVazVZT0t2cGlPUS1ET0JWUEtyRzhxLWVmMUNzWVJPQ1dhNlBRVlh3aGxBVXBmQ3kxZC1TN1JkTXo5UTFCd2YtYldmZ29RZmZCa1JO?oc=5",
+            "snippet": "KHADC faces online backlash for rejecting Blinkit  The Shillong Times"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Meghalaya's Khasi Hills council blocks Blinkit's entry to shield 4,000 local businesses - The New Indian Express",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOUZOQWVycUJiaUQtMXRTeWZVeG05WVR2anhQVmx0REg4cXJwRmlFQXBNcmJXTms4RXB0T0pBYzdYMk5ubV8yZDFhZnd2NkpPYlduelB4UG5mb0RpWm5aTXZOS2hhc0dseHdCUUdPY0hCaHlucFBHdi1yRGxwdWFXZTBrUXVibkdoTHFvN2k4REhDcFdVV1lqbVl1NTYwSFFPb0UtYWtUWWN0UHF6QmN3SU1VSFNwTFg0RzQtd2xmcXNDNHJ5bFhJQnBhWGk0cElm0gHeAUFVX3lxTFBPSjkwX09XN0VWVGc3aHRZd0lpMVhOZDhubHFrMVc1REU1Qi1lNmlhMk5EeXVyU0xzQ0pPU2Y1VHg1a1g3M19pSjhDNGstNzdOQ2VTQVJ2TE5OWndZbEpUczBLQTNRbjBFUHRBOVpqT2Y5N3JmU1RweHlpUW5GS3RIOXBrVXhKNWVobnNDdk16WldkUmRKd2Q3V05JV1NVX2dYeExQUzdDRGR5SWVtM3hNVmREYlFFTmFLa0RkV0JRSGxMeWNxUHpkSHJ6c3NLT1R5Z0JoZExkaEQ1TW92UQ?oc=5",
+            "snippet": "Meghalaya's Khasi Hills council blocks Blinkit's entry to shield 4,000 local businesses  The New Indian Express"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "You can now order from Blinkit at Mumbai Airport - Condé Nast Traveller India",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlFnTlU2b0o1T3RjdnhQY3hmZ3lsOW1Kc3VqbXNRMHlfdTM5NzFrYkQ2MVFIZ3RtaVgwMXBfQzgxUmEtYkd0STBTVTZLbzE3bTZxMnhHT2RCX1JveWVjWW5QalN1MjhkeWlRSExVaE55Y3M3b1V2a2pMNzc2eWZzMnpsSXBhNVNkNUE?oc=5",
+            "snippet": "You can now order from Blinkit at Mumbai Airport  Condé Nast Traveller India"
+        },
+        {
+            "source": "Quick-Commerce RSS",
+            "title": "Woman thanks Blinkit for free ambulance, urges company to keep it that way - India Today",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMHNaRTRNa3FkOXYwWUpOWjVKTzdCeXl3VTY0SC1oTzhybE0yN2xJRXVoeTVJd2d6RGVGNl9FdDl0c08tbXNVbnhYVFZ5WW9ZNGpOaTFtcnVxejY0M21zMjVONzZENjVXYWlWTXg5YnFKUWMwT1VfTTQ2TDQ3bFZSVFNpTVI1QWU0czZuTmRENnhEUXlrQ0xIVVlMSkJWcm1oeW1fVlZGRjBrMlhldzFNbkItTDUzX25aaTQ4UHlwcERINl9MUTM4QlN1UzNPMGFjTEtYctIB2gFBVV95cUxOSEt2VU1nOGxZQ1FselJBb2RqZ3lDa0dQbk9PeU1VY2JsLVptT3RVN2RQdVIydUZLTmJscmNnNDJRazVRSDIyRXRsVG1JdkttLU55T1dFZnFmd0YtMmszQ09NRUV5R2R5NzRhR3VOaTMzaGRlN290RnN3anh3NmFHYnAxaUxPTTlfd0d1YXNFVFBNTGZCVGFNTzE3NzV4XzZzeGxRTXBrdlRjNXMteEFveUNFMTVFWmVyaHpOdkpmeHNQU09NTEpKSVlqMWo0YW1XZzV6ZnJpdVJNUQ?oc=5",
+            "snippet": "Woman thanks Blinkit for free ambulance, urges company to keep it that way  India Today"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+praw
+requests
+python-dotenv
+google-play-scraper
+beautifulsoup4
